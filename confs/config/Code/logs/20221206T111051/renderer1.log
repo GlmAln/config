@@ -1,0 +1,6 @@
+[2022-12-06 11:17:51.032] [renderer1] [error] Unable to read file '/home/guillaume-alain.priso-totto/afs/work/spe/prog/epita-prepa-asm-2026-s3-tp11-guillaume-alain.priso-totto/test.c' (Error: File not modified since): Error: Unable to read file '/home/guillaume-alain.priso-totto/afs/work/spe/prog/epita-prepa-asm-2026-s3-tp11-guillaume-alain.priso-totto/test.c' (Error: File not modified since)
+    at h.doReadFileStream (vscode-file://vscode-app/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:602:20036)
+    at async p.doRead (vscode-file://vscode-app/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2752:42357)
+    at async p.readStream (vscode-file://vscode-app/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2752:42032)
+    at async Ir.resolveFromFile (vscode-file://vscode-app/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2741:66789)
+    at async vscode-file://vscode-app/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2752:36489

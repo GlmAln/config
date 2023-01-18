@@ -1,0 +1,25 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icons/icon-128.png"
+      },
+      "default_popup": "popup.html",
+      "icons": {
+         "128": "icons/icon-128.png",
+         "16": "icons/icon-16.png",
+         "48": "icons/icon-48.png"
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "contentScript.js" ],
+      "matches": [ "https://*.minecraftfangames.pw/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "A simple Minecraft like voxel game that runs in your browser",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg0MoMEdg/HkG5vtldSBY53lNz2wQya7U84MGagWn1dksyulYcr5nryWYKCwF/MOdP42tHGEVFh1K4C94yQ6OFGbKn9TKYlYlEF8eKHiq83tmy46KyrZG7LmWimwLZc6/Rnq5CVoHdQlcZjkGI2RD0NRBZ8TAV1EeeTHxjcuqEXOK8dYGeXNahlD39unwAZNcE8OSCSuiTme7pGJoKnM13ETtoWSboVVQjgfXDMKWxYgwKzIL9HH9ADQZTyGhEYytuCVsgmzAD53XgQFpecjrFFGb7VQlniqvBuN9N1U4dswjwGYbXADK1VDp97hydXPocDf7LbDm4fqQ3UhGwlXg0QIDAQAB",
+   "manifest_version": 3,
+   "name": "CubeCraft - Mine & Craft",
+   "short_name": "CubeCraft",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1"
+}

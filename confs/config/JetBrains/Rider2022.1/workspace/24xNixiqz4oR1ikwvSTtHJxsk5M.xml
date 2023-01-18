@@ -1,0 +1,393 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="AsciiDot" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AsciiDot/Direction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1653">
+              <caret line="87" column="30" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="30" />
+              <folding>
+                <marker date="1644569885000" expanded="false" signature="6:66" ph="..." />
+                <marker date="1644569885000" expanded="true" signature="86:5313" ph="{...}" />
+                <marker date="1644569885000" expanded="true" signature="93:328" ph="///     A small function to iterate over value of an enum (not taken from stake overflow): ... " />
+                <marker date="1644569885000" expanded="true" signature="361:552" ph="{...}" />
+                <marker date="1644569885000" expanded="true" signature="579:661" ph="{...}" />
+                <marker date="1644569885000" expanded="true" signature="695:5311" ph="{...}" />
+                <marker date="1644569885000" expanded="true" signature="710:1519" ph="/// check if 2 directions are on the same axes. ... " />
+                <marker date="1644569885000" expanded="true" signature="1583:1652" ph="{...}" />
+                <marker date="1644569885000" expanded="true" signature="1662:2376" ph="/// Rotate the given direction clockwise. ... " />
+                <marker date="1644569885000" expanded="true" signature="2436:2512" ph="{...}" />
+                <marker date="1644569885000" expanded="true" signature="2522:3238" ph="/// Give the opposite direction of the given one. ... " />
+                <marker date="1644569885000" expanded="true" signature="3298:3376" ph="{...}" />
+                <marker date="1644569885000" expanded="true" signature="3386:4064" ph="/// Give the X component of the direction. ... " />
+                <marker date="1644569885000" expanded="true" signature="4118:4341" ph="{...}" />
+                <marker date="1644569885000" expanded="true" signature="4277:4331" ph="{...}" />
+                <marker date="1644569885000" expanded="true" signature="4351:5028" ph="/// Give the Y component of the direction. ... " />
+                <marker date="1644569885000" expanded="true" signature="5082:5305" ph="{...}" />
+                <marker date="1644569885000" expanded="true" signature="5241:5295" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AsciiDot/AsciiDot.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <marker date="1644058963000" expanded="false" signature="6:66" ph="..." />
+                <marker date="1644058963000" expanded="true" signature="86:2064" ph="{...}" />
+                <marker date="1644058963000" expanded="true" signature="114:2062" ph="{...}" />
+                <marker date="1644058963000" expanded="true" signature="306:401" ph="{...}" />
+                <marker date="1644058963000" expanded="true" signature="447:542" ph="{...}" />
+                <marker date="1644058963000" expanded="true" signature="576:671" ph="{...}" />
+                <marker date="1644058963000" expanded="true" signature="758:853" ph="{...}" />
+                <marker date="1644058963000" expanded="true" signature="897:1331" ph="{...}" />
+                <marker date="1644058963000" expanded="true" signature="989:1292" ph="{...}" />
+                <marker date="1644058963000" expanded="true" signature="1057:1237" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AsciiDot/Point.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="827">
+              <caret line="96" column="42" selection-start-line="96" selection-start-column="42" selection-end-line="96" selection-end-column="42" />
+              <folding>
+                <marker date="1644571380000" expanded="true" signature="6:30" ph="..." />
+                <marker date="1644571380000" expanded="true" signature="50:3930" ph="{...}" />
+                <marker date="1644571380000" expanded="true" signature="57:143" ph="/// Represent a point in a 2D space. ... " />
+                <marker date="1644571380000" expanded="true" signature="166:3928" ph="{...}" />
+                <marker date="1644571380000" expanded="true" signature="181:452" ph="/// Create a new point at the given coordinates. ... " />
+                <marker date="1644571380000" expanded="true" signature="487:545" ph="{...}" />
+                <marker date="1644571380000" expanded="true" signature="555:806" ph="/// Duplication constructor. ... " />
+                <marker date="1644571380000" expanded="true" signature="840:910" ph="{...}" />
+                <marker date="1644571380000" expanded="true" signature="920:983" ph="/// The index of the column (or x-axis). ... " />
+                <marker date="1644571380000" expanded="true" signature="1036:1096" ph="/// The index of the row (or y-axis). ... " />
+                <marker date="1644571380000" expanded="true" signature="1150:1323" ph="/// Make a copy of the point. ... " />
+                <marker date="1644571380000" expanded="true" signature="1352:1443" ph="{...}" />
+                <marker date="1644571380000" expanded="true" signature="1453:1771" ph="/// Move the dot by changing his coordinates X and Y ... " />
+                <marker date="1644571380000" expanded="true" signature="1821:1956" ph="{...}" />
+                <marker date="1644571380000" expanded="true" signature="1966:2329" ph="/// Get a new point that has moved to the given direction. ... " />
+                <marker date="1644571380000" expanded="true" signature="2378:2485" ph="{...}" />
+                <marker date="1644571380000" expanded="true" signature="2495:2884" ph="/// Check if 2 points are in the same position. ... " />
+                <marker date="1644571380000" expanded="true" signature="3009:3537" ph="/// Get a string representation of the point.  ... " />
+                <marker date="1644571380000" expanded="true" signature="3612:3841" ph="/// Get a hash of the given point. ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AsciiDot/Dot.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+              <folding>
+                <marker date="1644572956000" expanded="true" signature="33:2811" ph="{...}" />
+                <marker date="1644572956000" expanded="true" signature="64:2809" ph="{...}" />
+                <marker date="1644572956000" expanded="true" signature="79:165" ph="///Number of Dots that as been instantiate. ... " />
+                <marker date="1644572956000" expanded="true" signature="237:321" ph="///The unique identifier of the instance. ... " />
+                <marker date="1644572956000" expanded="true" signature="370:449" ph="///The direction where the dot move. ... " />
+                <marker date="1644572956000" expanded="true" signature="503:571" ph="///The memory of the dot. ... " />
+                <marker date="1644572956000" expanded="true" signature="611:717" ph="///Getter and setter of &lt;c&gt;Memory.CurrentEnvironment&lt;/c&gt; value. ... " />
+                <marker date="1644572956000" expanded="true" signature="763:883" ph="{...}" />
+                <marker date="1644572956000" expanded="true" signature="901:994" ph="///Getter and setter of &lt;c&gt;Memory.Value&lt;\c&gt; value. ... " />
+                <marker date="1644572956000" expanded="true" signature="1022:1116" ph="{...}" />
+                <marker date="1644572956000" expanded="true" signature="1126:1471" ph="/// Constructor of Dot. ... " />
+                <marker date="1644572956000" expanded="true" signature="1558:1717" ph="{...}" />
+                <marker date="1644572956000" expanded="true" signature="1727:1999" ph="/// Constructor of Dot. ... " />
+                <marker date="1644572956000" expanded="true" signature="2086:2193" ph="{...}" />
+                <marker date="1644572956000" expanded="true" signature="2203:2294" ph="/// Move the dot forward. ... " />
+                <marker date="1644572956000" expanded="true" signature="2321:2372" ph="{...}" />
+                <marker date="1644572956000" expanded="true" signature="2382:2555" ph="/// Add a new token to the dot queue. ... " />
+                <marker date="1644572956000" expanded="true" signature="2638:2756" ph="/// Try to flush the queue and apply queued actions. ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AsciiDot/Memory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1509">
+              <caret line="119" column="32" selection-start-line="119" selection-start-column="32" selection-end-line="119" selection-end-column="32" />
+              <folding>
+                <marker date="1644577496000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1644577496000" expanded="true" signature="67:3107" ph="{...}" />
+                <marker date="1644577496000" expanded="true" signature="97:204" ph="{...}" />
+                <marker date="1644577496000" expanded="true" signature="233:3105" ph="{...}" />
+                <marker date="1644577496000" expanded="true" signature="248:322" ph="///The stored value of the dot. ... " />
+                <marker date="1644577496000" expanded="true" signature="369:484" ph="///In Witch environment the dot is. ... " />
+                <marker date="1644577496000" expanded="true" signature="549:619" ph="///Queue of visited tokens. ... " />
+                <marker date="1644577496000" expanded="true" signature="669:761" ph="/// Constructor of Memory. ... " />
+                <marker date="1644577496000" expanded="true" signature="785:927" ph="{...}" />
+                <marker date="1644577496000" expanded="true" signature="937:1107" ph="/// Copy constructor of Memory. ... " />
+                <marker date="1644577496000" expanded="true" signature="1145:1293" ph="{...}" />
+                <marker date="1644577496000" expanded="true" signature="1432:1584" ph="/// Try to flush the queue and apply queued actions: Assignment or Display or nothing. ... " />
+                <marker date="1644577496000" expanded="true" signature="1612:1931" ph="{...}" />
+                <marker date="1644577496000" expanded="true" signature="1672:1921" ph="{...}" />
+                <marker date="1644577496000" expanded="true" signature="1723:1907" ph="{...}" />
+                <marker date="1644577496000" expanded="true" signature="1801:1889" ph="{...}" />
+                <marker date="1644577496000" expanded="true" signature="1941:2096" ph="///Apply assignment action ... " />
+                <marker date="1644577496000" expanded="true" signature="2139:2621" ph="{...}" />
+                <marker date="1644577496000" expanded="true" signature="2231:2316" ph="{...}" />
+                <marker date="1644577496000" expanded="true" signature="2333:2611" ph="{...}" />
+                <marker date="1644577496000" expanded="true" signature="2631:2783" ph="///Apply display action ... " />
+                <marker date="1644577496000" expanded="true" signature="2823:3099" ph="{...}" />
+                <marker date="1644577496000" expanded="true" signature="2930:3052" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/AsciiDot/Direction.cs" />
+      <option value="$PROJECT_DIR$/AsciiDot/Point.cs" />
+      <option value="$PROJECT_DIR$/AsciiDot/Dot.cs" />
+      <option value="$PROJECT_DIR$/AsciiDot/Memory.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.AsciiDot/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AsciiDot" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AsciiDot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AsciiDot" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AsciiDot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AsciiDot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Memory.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9080000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005263" visible="true" weight="0.064075634" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.4994737" side_tool="true" weight="0.14170146" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="dotTrace Profiler" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Endpoints" order="5" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="5" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="IL Viewer" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Favorites</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="447" y="147" key="SettingsEditor" timestamp="1644570309298">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="447" y="147" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1644570309298" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AsciiDot/AsciiDot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1644058963000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1644058963000" expanded="true" signature="86:2064" ph="{...}" />
+            <marker date="1644058963000" expanded="true" signature="114:2062" ph="{...}" />
+            <marker date="1644058963000" expanded="true" signature="306:401" ph="{...}" />
+            <marker date="1644058963000" expanded="true" signature="447:542" ph="{...}" />
+            <marker date="1644058963000" expanded="true" signature="576:671" ph="{...}" />
+            <marker date="1644058963000" expanded="true" signature="758:853" ph="{...}" />
+            <marker date="1644058963000" expanded="true" signature="897:1331" ph="{...}" />
+            <marker date="1644058963000" expanded="true" signature="989:1292" ph="{...}" />
+            <marker date="1644058963000" expanded="true" signature="1057:1237" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AsciiDot/Point.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="827">
+          <caret line="96" column="42" lean-forward="true" selection-start-line="96" selection-start-column="42" selection-end-line="96" selection-end-column="42" />
+          <folding>
+            <marker date="1644571380000" expanded="true" signature="6:30" ph="..." />
+            <marker date="1644571380000" expanded="true" signature="50:3930" ph="{...}" />
+            <marker date="1644571380000" expanded="true" signature="57:143" ph="/// Represent a point in a 2D space. ... " />
+            <marker date="1644571380000" expanded="true" signature="166:3928" ph="{...}" />
+            <marker date="1644571380000" expanded="true" signature="181:452" ph="/// Create a new point at the given coordinates. ... " />
+            <marker date="1644571380000" expanded="true" signature="487:545" ph="{...}" />
+            <marker date="1644571380000" expanded="true" signature="555:806" ph="/// Duplication constructor. ... " />
+            <marker date="1644571380000" expanded="true" signature="840:910" ph="{...}" />
+            <marker date="1644571380000" expanded="true" signature="920:983" ph="/// The index of the column (or x-axis). ... " />
+            <marker date="1644571380000" expanded="true" signature="1036:1096" ph="/// The index of the row (or y-axis). ... " />
+            <marker date="1644571380000" expanded="true" signature="1150:1323" ph="/// Make a copy of the point. ... " />
+            <marker date="1644571380000" expanded="true" signature="1352:1443" ph="{...}" />
+            <marker date="1644571380000" expanded="true" signature="1453:1771" ph="/// Move the dot by changing his coordinates X and Y ... " />
+            <marker date="1644571380000" expanded="true" signature="1821:1956" ph="{...}" />
+            <marker date="1644571380000" expanded="true" signature="1966:2329" ph="/// Get a new point that has moved to the given direction. ... " />
+            <marker date="1644571380000" expanded="true" signature="2378:2485" ph="{...}" />
+            <marker date="1644571380000" expanded="true" signature="2495:2884" ph="/// Check if 2 points are in the same position. ... " />
+            <marker date="1644571380000" expanded="true" signature="3009:3537" ph="/// Get a string representation of the point.  ... " />
+            <marker date="1644571380000" expanded="true" signature="3612:3841" ph="/// Get a hash of the given point. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AsciiDot/Dot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+          <folding>
+            <marker date="1644572956000" expanded="true" signature="33:2811" ph="{...}" />
+            <marker date="1644572956000" expanded="true" signature="64:2809" ph="{...}" />
+            <marker date="1644572956000" expanded="true" signature="79:165" ph="///Number of Dots that as been instantiate. ... " />
+            <marker date="1644572956000" expanded="true" signature="237:321" ph="///The unique identifier of the instance. ... " />
+            <marker date="1644572956000" expanded="true" signature="370:449" ph="///The direction where the dot move. ... " />
+            <marker date="1644572956000" expanded="true" signature="503:571" ph="///The memory of the dot. ... " />
+            <marker date="1644572956000" expanded="true" signature="611:717" ph="///Getter and setter of &lt;c&gt;Memory.CurrentEnvironment&lt;/c&gt; value. ... " />
+            <marker date="1644572956000" expanded="true" signature="763:883" ph="{...}" />
+            <marker date="1644572956000" expanded="true" signature="901:994" ph="///Getter and setter of &lt;c&gt;Memory.Value&lt;\c&gt; value. ... " />
+            <marker date="1644572956000" expanded="true" signature="1022:1116" ph="{...}" />
+            <marker date="1644572956000" expanded="true" signature="1126:1471" ph="/// Constructor of Dot. ... " />
+            <marker date="1644572956000" expanded="true" signature="1558:1717" ph="{...}" />
+            <marker date="1644572956000" expanded="true" signature="1727:1999" ph="/// Constructor of Dot. ... " />
+            <marker date="1644572956000" expanded="true" signature="2086:2193" ph="{...}" />
+            <marker date="1644572956000" expanded="true" signature="2203:2294" ph="/// Move the dot forward. ... " />
+            <marker date="1644572956000" expanded="true" signature="2321:2372" ph="{...}" />
+            <marker date="1644572956000" expanded="true" signature="2382:2555" ph="/// Add a new token to the dot queue. ... " />
+            <marker date="1644572956000" expanded="true" signature="2638:2756" ph="/// Try to flush the queue and apply queued actions. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AsciiDot/Direction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1653">
+          <caret line="87" column="30" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="30" />
+          <folding>
+            <marker date="1644569885000" expanded="false" signature="6:66" ph="..." />
+            <marker date="1644569885000" expanded="true" signature="86:5313" ph="{...}" />
+            <marker date="1644569885000" expanded="true" signature="93:328" ph="///     A small function to iterate over value of an enum (not taken from stake overflow): ... " />
+            <marker date="1644569885000" expanded="true" signature="361:552" ph="{...}" />
+            <marker date="1644569885000" expanded="true" signature="579:661" ph="{...}" />
+            <marker date="1644569885000" expanded="true" signature="695:5311" ph="{...}" />
+            <marker date="1644569885000" expanded="true" signature="710:1519" ph="/// check if 2 directions are on the same axes. ... " />
+            <marker date="1644569885000" expanded="true" signature="1583:1652" ph="{...}" />
+            <marker date="1644569885000" expanded="true" signature="1662:2376" ph="/// Rotate the given direction clockwise. ... " />
+            <marker date="1644569885000" expanded="true" signature="2436:2512" ph="{...}" />
+            <marker date="1644569885000" expanded="true" signature="2522:3238" ph="/// Give the opposite direction of the given one. ... " />
+            <marker date="1644569885000" expanded="true" signature="3298:3376" ph="{...}" />
+            <marker date="1644569885000" expanded="true" signature="3386:4064" ph="/// Give the X component of the direction. ... " />
+            <marker date="1644569885000" expanded="true" signature="4118:4341" ph="{...}" />
+            <marker date="1644569885000" expanded="true" signature="4277:4331" ph="{...}" />
+            <marker date="1644569885000" expanded="true" signature="4351:5028" ph="/// Give the Y component of the direction. ... " />
+            <marker date="1644569885000" expanded="true" signature="5082:5305" ph="{...}" />
+            <marker date="1644569885000" expanded="true" signature="5241:5295" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AsciiDot/Memory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1509">
+          <caret line="119" column="32" selection-start-line="119" selection-start-column="32" selection-end-line="119" selection-end-column="32" />
+          <folding>
+            <marker date="1644577496000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1644577496000" expanded="true" signature="67:3107" ph="{...}" />
+            <marker date="1644577496000" expanded="true" signature="97:204" ph="{...}" />
+            <marker date="1644577496000" expanded="true" signature="233:3105" ph="{...}" />
+            <marker date="1644577496000" expanded="true" signature="248:322" ph="///The stored value of the dot. ... " />
+            <marker date="1644577496000" expanded="true" signature="369:484" ph="///In Witch environment the dot is. ... " />
+            <marker date="1644577496000" expanded="true" signature="549:619" ph="///Queue of visited tokens. ... " />
+            <marker date="1644577496000" expanded="true" signature="669:761" ph="/// Constructor of Memory. ... " />
+            <marker date="1644577496000" expanded="true" signature="785:927" ph="{...}" />
+            <marker date="1644577496000" expanded="true" signature="937:1107" ph="/// Copy constructor of Memory. ... " />
+            <marker date="1644577496000" expanded="true" signature="1145:1293" ph="{...}" />
+            <marker date="1644577496000" expanded="true" signature="1432:1584" ph="/// Try to flush the queue and apply queued actions: Assignment or Display or nothing. ... " />
+            <marker date="1644577496000" expanded="true" signature="1612:1931" ph="{...}" />
+            <marker date="1644577496000" expanded="true" signature="1672:1921" ph="{...}" />
+            <marker date="1644577496000" expanded="true" signature="1723:1907" ph="{...}" />
+            <marker date="1644577496000" expanded="true" signature="1801:1889" ph="{...}" />
+            <marker date="1644577496000" expanded="true" signature="1941:2096" ph="///Apply assignment action ... " />
+            <marker date="1644577496000" expanded="true" signature="2139:2621" ph="{...}" />
+            <marker date="1644577496000" expanded="true" signature="2231:2316" ph="{...}" />
+            <marker date="1644577496000" expanded="true" signature="2333:2611" ph="{...}" />
+            <marker date="1644577496000" expanded="true" signature="2631:2783" ph="///Apply display action ... " />
+            <marker date="1644577496000" expanded="true" signature="2823:3099" ph="{...}" />
+            <marker date="1644577496000" expanded="true" signature="2930:3052" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,306 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Basics/Basics.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+              <folding>
+                <marker date="1637576705000" expanded="true" signature="6:37" ph="..." />
+                <marker date="1637576705000" expanded="true" signature="55:2963" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="81:2961" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="127:197" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="235:455" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="496:748" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="799:1111" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="834:888" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="912:967" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="992:1063" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="1166:1306" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="1200:1254" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="1359:1874" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="1393:1451" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="1476:1533" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="1572:1629" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="1670:1728" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="1769:1838" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="1962:2030" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="2076:2310" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="2110:2164" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="2189:2243" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="2363:2955" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="2429:2486" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="2527:2623" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="2652:2746" ph="{...}" />
+                <marker date="1637576705000" expanded="true" signature="2776:2879" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basics/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+              <folding>
+                <marker date="1637576646000" expanded="true" signature="31:177" ph="{...}" />
+                <marker date="1637576646000" expanded="true" signature="51:175" ph="{...}" />
+                <marker date="1637576646000" expanded="true" signature="97:169" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Basics/Bonus.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <marker date="1637575896000" expanded="true" signature="56:274" ph="{...}" />
+                <marker date="1637575896000" expanded="true" signature="117:268" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Basics/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Basics" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Basics" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Basics" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Basics" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14675000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09884937" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3299712" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40009606" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="6" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Unit Tests" order="8" />
+      <window_info anchor="bottom" id="dotTrace Profiler" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="NuGet" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="15" />
+      <window_info anchor="bottom" id="Build" order="16" weight="0.3299712" />
+      <window_info anchor="bottom" id="Flow" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="IL Viewer" order="1" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Debug</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state width="914" height="315" key="GridCell.Tab.0.bottom" timestamp="1637576707599">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="315" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1637576707599" />
+    <state width="914" height="315" key="GridCell.Tab.0.center" timestamp="1637576707599">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="315" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1637576707599" />
+    <state width="914" height="315" key="GridCell.Tab.0.left" timestamp="1637576707598">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="315" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1637576707598" />
+    <state width="914" height="315" key="GridCell.Tab.0.right" timestamp="1637576707599">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="315" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1637576707599" />
+    <state width="1874" height="415" key="GridCell.Tab.1.bottom" timestamp="1637575942929">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942929" />
+    <state width="1874" height="415" key="GridCell.Tab.1.center" timestamp="1637575942928">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942928" />
+    <state width="1874" height="415" key="GridCell.Tab.1.left" timestamp="1637575942928">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942928" />
+    <state width="1874" height="415" key="GridCell.Tab.1.right" timestamp="1637575942929">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942929" />
+    <state width="1874" height="415" key="GridCell.Tab.2.bottom" timestamp="1637575942930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942930" />
+    <state width="1874" height="415" key="GridCell.Tab.2.center" timestamp="1637575942929">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942929" />
+    <state width="1874" height="415" key="GridCell.Tab.2.left" timestamp="1637575942929">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942929" />
+    <state width="1874" height="415" key="GridCell.Tab.2.right" timestamp="1637575942930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942930" />
+    <state width="1874" height="415" key="GridCell.Tab.3.bottom" timestamp="1637575942931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942931" />
+    <state width="1874" height="415" key="GridCell.Tab.3.center" timestamp="1637575942930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942930" />
+    <state width="1874" height="415" key="GridCell.Tab.3.left" timestamp="1637575942930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942930" />
+    <state width="1874" height="415" key="GridCell.Tab.3.right" timestamp="1637575942931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942931" />
+    <state width="1874" height="415" key="GridCell.Tab.4.bottom" timestamp="1637575942932">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942932" />
+    <state width="1874" height="415" key="GridCell.Tab.4.center" timestamp="1637575942931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.center/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942931" />
+    <state width="1874" height="415" key="GridCell.Tab.4.left" timestamp="1637575942931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.left/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942931" />
+    <state width="1874" height="415" key="GridCell.Tab.4.right" timestamp="1637575942931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.right/0.0.1920.1080@0.0.1920.1080" timestamp="1637575942931" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Basics/Bonus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1637575896000" expanded="true" signature="56:274" ph="{...}" />
+            <marker date="1637575896000" expanded="true" signature="117:268" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding>
+            <marker date="1637576646000" expanded="true" signature="31:177" ph="{...}" />
+            <marker date="1637576646000" expanded="true" signature="51:175" ph="{...}" />
+            <marker date="1637576646000" expanded="true" signature="97:169" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Basics.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <marker date="1637576705000" expanded="true" signature="6:37" ph="..." />
+            <marker date="1637576705000" expanded="true" signature="55:2963" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="81:2961" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="127:197" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="235:455" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="496:748" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="799:1111" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="834:888" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="912:967" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="992:1063" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="1166:1306" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="1200:1254" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="1359:1874" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="1393:1451" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="1476:1533" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="1572:1629" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="1670:1728" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="1769:1838" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="1962:2030" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="2076:2310" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="2110:2164" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="2189:2243" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="2363:2955" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="2429:2486" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="2527:2623" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="2652:2746" ph="{...}" />
+            <marker date="1637576705000" expanded="true" signature="2776:2879" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

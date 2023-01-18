@@ -1,0 +1,1006 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SherlocksGambit/Utils/Encryption/FenEncryption.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+              <folding>
+                <marker date="1648796810000" expanded="false" signature="6:227" ph="..." />
+                <marker date="1648796810000" expanded="true" signature="271:7878" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="311:7876" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="326:815" ph="///Encodes a board in its FEN notation ... " />
+                <marker date="1648796810000" expanded="true" signature="865:2675" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="948:2628" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="1044:2574" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="1213:1581" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="1304:1397" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="1466:1559" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="1651:2010" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="1819:1908" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="2035:2556" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="2126:2534" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="2225:2330" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="2403:2508" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="2685:4034" ph="/// Decodes a FEN-encoded board and places the pieces on the given board and in `PiecesDictionary` ... " />
+                <marker date="1648796810000" expanded="true" signature="4125:7870" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="4393:4754" ph="/* FEN notations starts from the lower left corner and goes to the upper right corner row by row ... */" />
+                <marker date="1648796810000" expanded="true" signature="4829:7860" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="5102:7540" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="5559:5695" ph="/* If `c` is a digit it then indicates how many cells to skip ... */" />
+                <marker date="1648796810000" expanded="true" signature="5736:6397" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="5783:5928" ph="/* Calculates the amount to skip. If greater than for or less than 0 (should not happen haha) ... */" />
+                <marker date="1648796810000" expanded="true" signature="6540:6691" ph="{...}" />
+                <marker date="1648796810000" expanded="true" signature="6713:6863" ph="/* At this point you have a lowercase char. If it is not an 'm' or and 'k' it is not recognized and ... */" />
+                <marker date="1648796810000" expanded="true" signature="7558:7699" ph="/* If at the end of the row's code segment you did not add a total of 4 pieces (null included) an ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SherlocksGambit/Game/Cell.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+              <folding>
+                <marker date="1647871981000" expanded="true" signature="66:1020" ph="{...}" />
+                <marker date="1647871981000" expanded="true" signature="90:1018" ph="{...}" />
+                <marker date="1647871981000" expanded="true" signature="172:275" ph="{...}" />
+                <marker date="1647871981000" expanded="true" signature="591:870" ph="///Basic constructor for Cell ... " />
+                <marker date="1647871981000" expanded="true" signature="922:1012" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SafetyNet/Threshold1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <marker date="1647871981000" expanded="true" signature="6:90" ph="..." />
+                <marker date="1647871981000" expanded="true" signature="111:755" ph="{...}" />
+                <marker date="1647871981000" expanded="true" signature="159:753" ph="{...}" />
+                <marker date="1647871981000" expanded="true" signature="437:747" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SherlocksGambit/Game/Board.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="96" column="54" selection-start-line="96" selection-start-column="54" selection-end-line="96" selection-end-column="54" />
+              <folding>
+                <marker date="1648813499000" expanded="false" signature="6:144" ph="..." />
+                <marker date="1648813499000" expanded="true" signature="176:10258" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="209:10256" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="882:1324" ph="///Basic constructor for Board ... " />
+                <marker date="1648813499000" expanded="true" signature="1366:1980" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="1389:1518" ph="/* Initialise `Positions` with new cells. ... */" />
+                <marker date="1648813499000" expanded="true" signature="1990:2407" ph="///Gets the CellState of a cell from a specific player's POV ... " />
+                <marker date="1648813499000" expanded="true" signature="2489:3277" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="2669:2834" ph="/* Get the cell at `targetPosition` (its index in `Positions` is one less than its board position) ... */" />
+                <marker date="1648813499000" expanded="true" signature="3001:3159" ph="/* Compare the target's current piece's color with `color` ... */" />
+                <marker date="1648813499000" expanded="true" signature="3287:3994" ph="///Initializes and returns a copy of the Board ... " />
+                <marker date="1648813499000" expanded="true" signature="4022:4650" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="4284:4616" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="4410:4602" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="4660:5085" ph="///Checks whether a player has won ... " />
+                <marker date="1648813499000" expanded="true" signature="5137:5832" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="5197:5493" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="5510:5822" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="5842:6335" ph="///Checks whether a player has lost ... " />
+                <marker date="1648813499000" expanded="true" signature="6388:7791" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="6448:7109" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="6743:7040" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="6853:6989" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="7126:7781" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="7421:7712" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="7525:7661" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="7801:8173" ph="///Rudimentary printing function ... " />
+                <marker date="1648813499000" expanded="true" signature="8201:10250" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="8311:8475" ph="/* `y` starts at BoardSize - 1 because of the discontinuity of the origin. ... */" />
+                <marker date="1648813499000" expanded="true" signature="8528:10127" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="8665:10075" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="9619:9936" ph="{...}" />
+                <marker date="1648813499000" expanded="true" signature="9683:9796" ph="..." />
+                <marker date="1648813499000" expanded="true" signature="9829:9914" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SherlocksGambit/Game/Pieces/BasePiece.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+              <folding>
+                <marker date="1648046884000" expanded="false" signature="6:89" ph="..." />
+                <marker date="1648046884000" expanded="true" signature="128:19385" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="166:19383" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="591:964" ph="///Basic constructor for BasePiece ... " />
+                <marker date="1648046884000" expanded="true" signature="1018:1072" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="1082:1315" ph="///Abstract method to copy the BasePiece ... " />
+                <marker date="1648046884000" expanded="true" signature="1367:1803" ph="///Places the BasePiece on the provided cell ... " />
+                <marker date="1648046884000" expanded="true" signature="1843:1983" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="1993:2384" ph="///Kills the BasePiece ... " />
+                <marker date="1648046884000" expanded="true" signature="2434:2771" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="2553:2696" ph="/* If you are simulating a move we need to keep track of which cell the piece was on ... */" />
+                <marker date="1648046884000" expanded="true" signature="2781:3925" ph="///Gets all possible paths in all possible diagonals ... " />
+                <marker date="1648046884000" expanded="true" signature="4008:5521" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="4261:5486" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="4810:5378" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="4849:5010" ph="/* If you did not encounter enemies but you should have (prevEnemies is not null or you encountered ... */" />
+                <marker date="1648046884000" expanded="true" signature="5057:5091" ph="..." />
+                <marker date="1648046884000" expanded="true" signature="5233:5360" ph="..." />
+                <marker date="1648046884000" expanded="true" signature="5258:5329" ph="..." />
+                <marker date="1648046884000" expanded="true" signature="5531:6249" ph="///Returns a list of possible paths (if any) from a given position in a given direction ... " />
+                <marker date="1648046884000" expanded="true" signature="6352:11360" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="6485:6625" ph="/* Create the resulting list of PathObjects ... */" />
+                <marker date="1648046884000" expanded="true" signature="6932:7144" ph="/* Loop until no moves left ... */" />
+                <marker date="1648046884000" expanded="true" signature="7195:11325" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="7226:7363" ph="/* Update the current position in the direction specified ... */" />
+                <marker date="1648046884000" expanded="true" signature="7754:10374" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="8072:8213" ph="/* Update the current position in the direction specified ... */" />
+                <marker date="1648046884000" expanded="true" signature="8324:8473" ph="/* If `currPos` == 1 then cell is out of bounds, returns `res` ... */" />
+                <marker date="1648046884000" expanded="true" signature="8877:9053" ph="/* Reset the previously found (if piece is a king and if any) simple move because if a capture is ... */" />
+                <marker date="1648046884000" expanded="true" signature="9530:9904" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="9577:9714" ph="/* For each additional path found, concatenate their path with the current possible path and add ... */" />
+                <marker date="1648046884000" expanded="true" signature="10154:10324" ph="/* You have captured an enemy and checked if you could capture more, now you can just return `res` ... */" />
+                <marker date="1648046884000" expanded="true" signature="10710:10906" ph="/* If you are a king and that you have already used your simple move, you can now only add a possible ... */" />
+                <marker date="1648046884000" expanded="true" signature="11001:11156" ph="/* Create `res` if null then add to `res` a new PathObject with a copy of the current path and a copy of ... */" />
+                <marker date="1648046884000" expanded="true" signature="11370:11793" ph="///Checks if the BasePiece can move ... " />
+                <marker date="1648046884000" expanded="true" signature="11839:11974" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="11984:12935" ph="///Recreates all possible paths from a position to look for a target ... " />
+                <marker date="1648046884000" expanded="true" signature="13030:13546" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="13267:13511" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="13556:14429" ph="/// Checks if any of the player's pieces could have captured an enemy piece but the move chosen was a simple one ... " />
+                <marker date="1648046884000" expanded="true" signature="14483:14608" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="14618:15423" ph="///Prequel to its overloaded version, recreates a PathObject to a target Cell ... " />
+                <marker date="1648046884000" expanded="true" signature="15474:15859" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="15497:15658" ph="/* If action is wrong (could have eaten) then return false else recreates the path and return the result of ... */" />
+                <marker date="1648046884000" expanded="true" signature="15869:17295" ph="/// Overload for `Move` function replacing its parameters with a PathObject. Moves the BasePiece ... " />
+                <marker date="1648046884000" expanded="true" signature="17373:18016" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="18026:18686" ph="///[BONUS] Undoes a move ... " />
+                <marker date="1648046884000" expanded="true" signature="18745:19377" ph="{...}" />
+                <marker date="1648046884000" expanded="true" signature="19024:19160" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SherlocksGambit/Game/PathObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="40" column="76" selection-start-line="40" selection-start-column="76" selection-end-line="40" selection-end-column="76" />
+              <folding>
+                <marker date="1648812199000" expanded="true" signature="6:82" ph="..." />
+                <marker date="1648812199000" expanded="true" signature="114:2918" ph="{...}" />
+                <marker date="1648812199000" expanded="true" signature="144:2916" ph="{...}" />
+                <marker date="1648812199000" expanded="true" signature="159:303" ph="///Lists of cells representing the path to follow ... " />
+                <marker date="1648812199000" expanded="true" signature="469:783" ph="///Basic constructor for PathObject ... " />
+                <marker date="1648812199000" expanded="true" signature="851:927" ph="{...}" />
+                <marker date="1648812199000" expanded="true" signature="937:1323" ph="///Creates a clone of this PathObject in a new referential, the targeted Board ... " />
+                <marker date="1648812199000" expanded="true" signature="1378:1949" ph="{...}" />
+                <marker date="1648812199000" expanded="true" signature="1570:1677" ph="{...}" />
+                <marker date="1648812199000" expanded="true" signature="1742:1880" ph="{...}" />
+                <marker date="1648812199000" expanded="true" signature="1959:2597" ph="///[BONUS] Checks if a given object is equal to this PathObject ... " />
+                <marker date="1648812199000" expanded="true" signature="2645:2734" ph="{...}" />
+                <marker date="1648812199000" expanded="true" signature="2838:2910" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SherlocksGambit/Game/Pieces/PieceManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-638">
+              <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+              <folding>
+                <marker date="1647871981000" expanded="false" signature="6:124" ph="..." />
+                <marker date="1647871981000" expanded="true" signature="163:3934" ph="{...}" />
+                <marker date="1647871981000" expanded="true" signature="195:3932" ph="{...}" />
+                <marker date="1647871981000" expanded="true" signature="351:807" ph="///Basic constructor for PieceManager ... " />
+                <marker date="1647871981000" expanded="true" signature="864:1242" ph="{...}" />
+                <marker date="1647871981000" expanded="true" signature="1260:1614" ph="///Adds a BasePiece to the dictionary ... " />
+                <marker date="1647871981000" expanded="true" signature="1660:1734" ph="{...}" />
+                <marker date="1647871981000" expanded="true" signature="1744:2110" ph="///Removes a BasePiece off the dictionary ... " />
+                <marker date="1647871981000" expanded="true" signature="2159:2236" ph="{...}" />
+                <marker date="1647871981000" expanded="true" signature="2246:2739" ph="///Promotes a Man to a King ... " />
+                <marker date="1647871981000" expanded="true" signature="2815:3218" ph="{...}" />
+                <marker date="1647871981000" expanded="true" signature="3236:3760" ph="///[BONUS] Demotes a King to a Man ... " />
+                <marker date="1647871981000" expanded="true" signature="3837:3926" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SafetyNet/Threshold2.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3630">
+              <caret line="157" column="31" selection-start-line="157" selection-start-column="31" selection-end-line="157" selection-end-column="31" />
+              <folding>
+                <marker date="1648813936000" expanded="true" signature="6:250" ph="..." />
+                <marker date="1648813936000" expanded="true" signature="271:7763" ph="{...}" />
+                <marker date="1648813936000" expanded="true" signature="319:7761" ph="{...}" />
+                <marker date="1648813936000" expanded="true" signature="938:1038" ph="{...}" />
+                <marker date="1648813936000" expanded="true" signature="1652:1753" ph="{...}" />
+                <marker date="1648813936000" expanded="true" signature="2364:2577" ph="{...}" />
+                <marker date="1648813936000" expanded="true" signature="2651:2918" ph="{...}" />
+                <marker date="1648813936000" expanded="true" signature="2993:3262" ph="{...}" />
+                <marker date="1648813936000" expanded="true" signature="3542:6073" ph="{...}" />
+                <marker date="1648813936000" expanded="true" signature="3974:4469" ph="{...}" />
+                <marker date="1648813936000" expanded="true" signature="4531:6063" ph="{...}" />
+                <marker date="1648813936000" expanded="true" signature="5208:5847" ph="{...}" />
+                <marker date="1648813936000" expanded="true" signature="6363:7755" ph="{...}" />
+                <marker date="1648813936000" expanded="true" signature="7357:7460" ph="/* Move both pieces on their respective board ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>brd</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/SherlocksGambit/Utils/Encryption/FenEncryption.cs" />
+      <option value="$PROJECT_DIR$/SherlocksGambit/Game/Pieces/PieceManager.cs" />
+      <option value="$PROJECT_DIR$/SherlocksGambit/Game/PathObject.cs" />
+      <option value="$PROJECT_DIR$/SherlocksGambit/Game/Board.cs" />
+      <option value="$PROJECT_DIR$/SafetyNet/Threshold2.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.SherlocksGambit/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SherlocksGambit" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SherlocksGambit" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17305000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06654489" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3299712" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.43371758" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.3299712" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="7" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="Unit Tests" order="9" visible="true" weight="0.6448931" />
+      <window_info anchor="bottom" id="dotTrace Profiler" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="NuGet" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="16" />
+      <window_info anchor="bottom" id="Endpoints" order="17" />
+      <window_info anchor="bottom" id="Flow" order="18" />
+      <window_info anchor="bottom" id="Services" order="19" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="IL Viewer" order="1" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <recentWindows>
+      <value>Build</value>
+      <value>Unit Tests</value>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state width="338" height="538" key="DebuggerActiveHint" timestamp="1648800431407">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="338" height="538" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1648800431407" />
+    <state width="1874" height="423" key="GridCell.Tab.0.bottom" timestamp="1648800865091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865091" />
+    <state width="1874" height="423" key="GridCell.Tab.0.center" timestamp="1648800865090">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865090" />
+    <state width="1874" height="423" key="GridCell.Tab.0.left" timestamp="1648800865090">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865090" />
+    <state width="1874" height="423" key="GridCell.Tab.0.right" timestamp="1648800865091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865091" />
+    <state width="1874" height="423" key="GridCell.Tab.1.bottom" timestamp="1648800865092">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865092" />
+    <state width="1874" height="423" key="GridCell.Tab.1.center" timestamp="1648800865091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865091" />
+    <state width="1874" height="423" key="GridCell.Tab.1.left" timestamp="1648800865091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865091" />
+    <state width="1874" height="423" key="GridCell.Tab.1.right" timestamp="1648800865091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865091" />
+    <state width="1874" height="423" key="GridCell.Tab.2.bottom" timestamp="1648800865092">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865092" />
+    <state width="1874" height="423" key="GridCell.Tab.2.center" timestamp="1648800865092">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865092" />
+    <state width="1874" height="423" key="GridCell.Tab.2.left" timestamp="1648800865092">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865092" />
+    <state width="1874" height="423" key="GridCell.Tab.2.right" timestamp="1648800865092">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865092" />
+    <state width="1874" height="423" key="GridCell.Tab.3.bottom" timestamp="1648800865093">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865093" />
+    <state width="1874" height="423" key="GridCell.Tab.3.center" timestamp="1648800865093">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865093" />
+    <state width="1874" height="423" key="GridCell.Tab.3.left" timestamp="1648800865093">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865093" />
+    <state width="1874" height="423" key="GridCell.Tab.3.right" timestamp="1648800865093">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865093" />
+    <state width="1874" height="423" key="GridCell.Tab.4.bottom" timestamp="1648800865094">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.4.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865094" />
+    <state width="1874" height="423" key="GridCell.Tab.4.center" timestamp="1648800865094">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.4.center/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865094" />
+    <state width="1874" height="423" key="GridCell.Tab.4.left" timestamp="1648800865093">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.4.left/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865093" />
+    <state width="1874" height="423" key="GridCell.Tab.4.right" timestamp="1648800865094">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="423" key="GridCell.Tab.4.right/0.0.1920.1080@0.0.1920.1080" timestamp="1648800865094" />
+    <state x="0" y="0" width="1920" height="1061" key="VCS.FileHistoryDialog" timestamp="1648814113076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1920" height="1061" key="VCS.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1648814113076" />
+    <state width="960" height="530" key="XDebugger.FullValuePopup" timestamp="1648459617264">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="960" height="530" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1648459617264" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SherlocksGambit/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <marker date="1647871981000" expanded="true" signature="25:217" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="59:215" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="99:209" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/25288f22b7c548d8adf4cb3c0171568e75600/A/Assert.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="394" column="16" selection-start-line="394" selection-start-column="16" selection-end-line="394" selection-end-column="16" />
+          <folding>
+            <marker date="1648460007000" expanded="false" signature="0:1275" ph="// ***********************************************************************..." />
+            <marker date="1648460007000" expanded="false" signature="1301:1464" ph="..." />
+            <marker date="1648460007000" expanded="true" signature="1491:17602" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="1498:1621" ph="/// Delegate used by tests that execute code and ... " />
+            <marker date="1648460007000" expanded="true" signature="1698:1827" ph="/* Delegate used by tests that execute async code and ... */" />
+            <marker date="1648460007000" expanded="true" signature="1909:2071" ph="/// The Assert class contains a collection of static methods that ... " />
+            <marker date="1648460007000" expanded="true" signature="2212:17600" ph="{...}" />
+            <marker date="1648460007000" expanded="false" signature="2227:3425" ph="Equals and ReferenceEquals" />
+            <marker date="1648460007000" expanded="true" signature="2271:2590" ph="/// DO NOT USE! Use Assert.AreEqual(...) instead. ... " />
+            <marker date="1648460007000" expanded="true" signature="2702:2837" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="2847:3141" ph="/// DO NOT USE! ... " />
+            <marker date="1648460007000" expanded="true" signature="3262:3405" ph="{...}" />
+            <marker date="1648460007000" expanded="false" signature="3435:5299" ph="Pass" />
+            <marker date="1648460007000" expanded="true" signature="3457:3897" ph="/// Throws a &lt;see cref=&quot;SuccessException&quot;/&gt; with the message and arguments ... " />
+            <marker date="1648460007000" expanded="true" signature="3970:4454" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="4464:4818" ph="/// Throws a &lt;see cref=&quot;SuccessException&quot;/&gt; with the message and arguments ... " />
+            <marker date="1648460007000" expanded="true" signature="4867:4927" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="4937:5180" ph="/// Throws a &lt;see cref=&quot;SuccessException&quot;/&gt; with the message and arguments ... " />
+            <marker date="1648460007000" expanded="true" signature="5214:5279" ph="{...}" />
+            <marker date="1648460007000" expanded="false" signature="5309:6740" ph="Fail" />
+            <marker date="1648460007000" expanded="true" signature="5331:5739" ph="/// Marks the test as failed with the message and arguments that are passed in. Returns without throwing an ... " />
+            <marker date="1648460007000" expanded="true" signature="5812:6036" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="6046:6353" ph="/// Marks the test as failed with the message that is passed in. Returns without throwing an exception when ... " />
+            <marker date="1648460007000" expanded="true" signature="6402:6462" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="6472:6621" ph="/// Marks the test as failed. Returns without throwing an exception when inside a multiple assert block. ... " />
+            <marker date="1648460007000" expanded="true" signature="6655:6720" ph="{...}" />
+            <marker date="1648460007000" expanded="false" signature="6750:7620" ph="Warn" />
+            <marker date="1648460007000" expanded="true" signature="6772:7031" ph="/// Issues a warning using the message and arguments provided. ... " />
+            <marker date="1648460007000" expanded="true" signature="7104:7327" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="7337:7496" ph="/// Issues a warning using the message provided. ... " />
+            <marker date="1648460007000" expanded="true" signature="7545:7600" ph="{...}" />
+            <marker date="1648460007000" expanded="false" signature="7630:9311" ph="Ignore" />
+            <marker date="1648460007000" expanded="true" signature="7654:8051" ph="/// Throws an &lt;see cref=&quot;IgnoreException&quot;/&gt; with the message and arguments ... " />
+            <marker date="1648460007000" expanded="true" signature="8126:8611" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="8621:8916" ph="/// Throws an &lt;see cref=&quot;IgnoreException&quot;/&gt; with the message that is ... " />
+            <marker date="1648460007000" expanded="true" signature="8967:9029" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="9039:9188" ph="/// Throws an &lt;see cref=&quot;IgnoreException&quot;/&gt;. ... " />
+            <marker date="1648460007000" expanded="true" signature="9224:9291" ph="{...}" />
+            <marker date="1648460007000" expanded="false" signature="9321:11089" ph="InConclusive" />
+            <marker date="1648460007000" expanded="true" signature="9351:9762" ph="/// Throws an &lt;see cref=&quot;InconclusiveException&quot;/&gt; with the message and arguments ... " />
+            <marker date="1648460007000" expanded="true" signature="9843:10340" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="10350:10659" ph="/// Throws an &lt;see cref=&quot;InconclusiveException&quot;/&gt; with the message that is ... " />
+            <marker date="1648460007000" expanded="true" signature="10716:10784" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="10794:10954" ph="/// Throws an &lt;see cref=&quot;InconclusiveException&quot;/&gt;. ... " />
+            <marker date="1648460007000" expanded="true" signature="10996:11069" ph="{...}" />
+            <marker date="1648460007000" expanded="false" signature="11099:12412" ph="Contains" />
+            <marker date="1648460007000" expanded="true" signature="11125:11624" ph="/// Asserts that an object is contained in a collection. Returns without throwing an exception when inside a ... " />
+            <marker date="1648460007000" expanded="true" signature="11740:11864" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="11874:12196" ph="/// Asserts that an object is contained in a collection. Returns without throwing an exception when inside a ... " />
+            <marker date="1648460007000" expanded="true" signature="12271:12392" ph="{...}" />
+            <marker date="1648460007000" expanded="false" signature="12422:14705" ph="Multiple" />
+            <marker date="1648460007000" expanded="true" signature="12448:12788" ph="/// Wraps code containing a series of assertions, which should all ... " />
+            <marker date="1648460007000" expanded="true" signature="12851:13525" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="13100:13160" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="13180:13255" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="13351:13515" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="13565:13905" ph="/* Wraps code containing a series of assertions, which should all ... */" />
+            <marker date="1648460007000" expanded="true" signature="14715:17594" ph="Helper Methods" />
+            <marker date="1648460007000" expanded="true" signature="14822:14892" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="15001:15184" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="15244:15741" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="15800:15983" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="16390:16644" ph="/// If &lt;see cref=&quot;Exception.StackTrace&quot;/&gt; throws, returns &quot;SomeException was thrown by the ... " />
+            <marker date="1648460007000" expanded="true" signature="16664:17008" ph="/* https://github.com/dotnet/coreclr/issues/19698 is also currently present in .NET Framework 4.7 and 4.8. A ... */" />
+            <marker date="1648460007000" expanded="true" signature="17168:17438" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="17194:17269" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="17302:17428" ph="{...}" />
+            <marker date="1648460007000" expanded="true" signature="17490:17582" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SherlocksGambit/Game/Board(Bonus).cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <marker date="1647871981000" expanded="false" signature="6:121" ph="..." />
+            <marker date="1647871981000" expanded="true" signature="153:3474" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="186:3472" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="690:1426" ph="///[BONUS] Overload fot the Board constructor ... " />
+            <marker date="1647871981000" expanded="true" signature="1482:1571" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="1581:2064" ph="///[BONUS] Constructs a new Board with the current Board's history and index onto it ... " />
+            <marker date="1647871981000" expanded="true" signature="2109:2198" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="2216:2624" ph="///[BONUS] Registers a move into the board's history ... " />
+            <marker date="1647871981000" expanded="true" signature="2659:2748" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="2758:3339" ph="///[BONUS] Creates a modular Starting fen code ... " />
+            <marker date="1647871981000" expanded="true" signature="3390:3466" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/8ef4fb777250468abedc5dd1569d24c78d8400/402/List.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <marker date="1648799799000" expanded="false" signature="0:136" ph="// Licensed to the .NET Foundation under one or more agreements...." />
+            <marker date="1648799799000" expanded="false" signature="144:279" ph="..." />
+            <marker date="1648799799000" expanded="true" signature="317:39037" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="324:655" ph="/* Implements a variable-size List that uses an array of objects to store the ... */" />
+            <marker date="1648799799000" expanded="true" signature="935:39035" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="1392:1642" ph="/* Constructs a List. The list is initially empty and has a capacity ... */" />
+            <marker date="1648799799000" expanded="true" signature="1664:1719" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="1729:1933" ph="/* Constructs a List with a given initial capacity. The list is ... */" />
+            <marker date="1648799799000" expanded="true" signature="1967:2289" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="2299:2493" ph="/* Constructs a List, copying the contents of the given collection. The ... */" />
+            <marker date="1648799799000" expanded="true" signature="2540:3402" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="2721:3073" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="2804:2883" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="2904:3059" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="3090:3392" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="3232:3378" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="3275:3360" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="3412:3636" ph="/* Gets and sets the capacity of this list.  The capacity is the size of ... */" />
+            <marker date="1648799799000" expanded="true" signature="3664:4504" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="3724:4494" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="3773:3952" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="3997:4480" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="4050:4346" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="4164:4281" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="4371:4462" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="5072:5671" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="5098:5391" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="5229:5339" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="5408:5661" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="5470:5580" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="5734:6023" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="5757:5939" ph="/* Non-null values are fine.  Only accept nulls if T is a class or Nullable&lt;U&gt;. ... */" />
+            <marker date="1648799799000" expanded="true" signature="6062:6527" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="6120:6517" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="6253:6334" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="6379:6503" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="6537:6741" ph="/* Adds the given object to the end of this list. The size of the list is ... */" />
+            <marker date="1648799799000" expanded="true" signature="6832:7167" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="6977:7075" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="7092:7157" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="7343:7494" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="7531:7902" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="7650:7709" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="7750:7861" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="7912:8134" ph="/* Adds the elements of the given collection to the end of this list. If ... */" />
+            <marker date="1648799799000" expanded="true" signature="8346:9568" ph="/* Searches a section of the list for a given element using a binary search ... */" />
+            <marker date="1648799799000" expanded="true" signature="9654:10164" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="10504:10959" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="10607:10877" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="10712:10863" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="10894:10949" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="10969:11171" ph="/* Contains returns true if the specified element is in the List. ... */" />
+            <marker date="1648799799000" expanded="true" signature="11208:11722" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="11231:11657" ph="/* PERF: IndexOf calls Array.IndexOf, which internally ... */" />
+            <marker date="1648799799000" expanded="true" signature="11765:11924" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="11817:11888" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="12007:12419" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="12052:12165" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="12269:12352" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="12429:12513" ph="/* Copies this List into array, which must be of a ... */" />
+            <marker date="1648799799000" expanded="true" signature="12594:12678" ph="/* Copies this List into array, which must be of a ... */" />
+            <marker date="1648799799000" expanded="true" signature="12739:13258" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="12803:12931" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="12948:13093" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="13140:13248" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="13268:13432" ph="/* Copies a section of this list to the given array at the given index. ... */" />
+            <marker date="1648799799000" expanded="true" signature="13508:13817" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="13557:13679" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="13872:14015" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="14025:14289" ph="/* Ensures that the capacity of this list is at least the given minimum ... */" />
+            <marker date="1648799799000" expanded="true" signature="14334:14930" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="14381:14920" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="14504:14710" ph="/* Allow the list to grow to maximum possible capacity (~2G elements) before encountering overflow. ... */" />
+            <marker date="1648799799000" expanded="true" signature="15061:15434" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="15102:15211" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="15256:15396" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="15308:15382" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="15486:15901" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="15527:15636" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="15723:15866" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="15775:15852" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="16202:16903" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="16260:16378" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="16436:16549" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="16581:16690" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="16794:16870" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="16951:17329" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="16992:17101" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="17151:17291" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="17203:17277" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="17654:18910" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="17695:17804" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="17833:18079" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="17935:18065" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="18096:18359" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="18215:18345" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="18528:18641" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="18745:18877" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="18797:18863" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="18957:19503" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="18999:19109" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="19191:19358" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="19246:19309" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="19513:19795" ph="/* Returns an enumerator for this list with the given ... */" />
+            <marker date="1648799799000" expanded="true" signature="20107:20789" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="20144:20255" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="20283:20450" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="20490:20612" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="20799:21169" ph="/* Returns the index of the first occurrence of a given value in a range of ... */" />
+            <marker date="1648799799000" expanded="true" signature="21299:21454" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="21351:21421" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="21464:21887" ph="/* Returns the index of the first occurrence of a given value in a range of ... */" />
+            <marker date="1648799799000" expanded="true" signature="21933:22124" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="22134:22552" ph="/* Returns the index of the first occurrence of a given value in a range of ... */" />
+            <marker date="1648799799000" expanded="true" signature="22609:22931" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="22941:23153" ph="/* Inserts an element into this list at a given index. The size of the list ... */" />
+            <marker date="1648799799000" expanded="true" signature="23199:23766" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="23310:23474" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="23572:23677" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="23818:24168" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="23937:24006" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="24047:24158" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="24178:24488" ph="/* Inserts the elements of the given collection at a given index. If ... */" />
+            <marker date="1648799799000" expanded="true" signature="24558:26235" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="24604:24718" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="24762:24860" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="24909:25910" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="24991:25896" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="25099:25232" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="25368:25724" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="25749:25842" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="25927:26201" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="26029:26187" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="26072:26169" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="26245:26662" ph="/* Returns the index of the last occurrence of a given value in a range of ... */" />
+            <marker date="1648799799000" expanded="true" signature="26701:26941" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="26739:26826" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="26843:26931" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="26951:27383" ph="/* Returns the index of the last occurrence of a given value in a range of ... */" />
+            <marker date="1648799799000" expanded="true" signature="27433:27611" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="27621:28033" ph="/* Returns the index of the last occurrence of a given value in a range of ... */" />
+            <marker date="1648799799000" expanded="true" signature="28094:29083" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="28149:28260" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="28306:28473" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="28502:28589" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="28622:28796" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="28832:29006" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="29093:29188" ph="/* Removes the element at the given index. The size of the list is ... */" />
+            <marker date="1648799799000" expanded="true" signature="29223:29427" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="29300:29390" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="29468:29592" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="29520:29582" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="29602:29698" ph="/* This method removes all items which matches the predicate. ... */" />
+            <marker date="1648799799000" expanded="true" signature="29747:30957" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="29788:29897" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="30236:30590" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="30428:30576" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="30660:30820" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="30967:31062" ph="/* Removes the element at the given index. The size of the list is ... */" />
+            <marker date="1648799799000" expanded="true" signature="31102:31584" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="31156:31254" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="31306:31411" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="31480:31550" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="31694:32618" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="31731:31842" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="31870:32037" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="32199:32608" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="32280:32401" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="32503:32594" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="32740:33017" ph="/* Reverses the elements in a range of this list. Following a call to this ... */" />
+            <marker date="1648799799000" expanded="true" signature="33067:33687" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="33104:33215" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="33243:33410" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="33572:33653" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="33697:33786" ph="/* Sorts the elements in this list.  Uses the default comparer and ... */" />
+            <marker date="1648799799000" expanded="true" signature="33860:33951" ph="/* Sorts the elements in this list.  Uses Array.Sort with the ... */" />
+            <marker date="1648799799000" expanded="true" signature="34051:34481" ph="/* Sorts the elements in a section of this list. The sort compares the ... */" />
+            <marker date="1648799799000" expanded="true" signature="34552:35182" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="34589:34700" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="34728:34895" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="35057:35148" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="35234:35568" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="35280:35394" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="35422:35534" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="35578:35713" ph="/* ToArray returns an array containing the contents of the List. ... */" />
+            <marker date="1648799799000" expanded="true" signature="35742:35966" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="35780:35845" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="35976:36389" ph="/* Sets the capacity of this list to the size of the list. This method can ... */" />
+            <marker date="1648799799000" expanded="true" signature="36422:36605" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="36533:36595" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="36657:37024" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="36698:36807" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="36852:36989" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="36905:36975" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="37088:39029" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="37297:37461" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="37496:37524" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="37560:37921" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="37712:37868" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="37962:38284" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="38024:38161" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="38369:38703" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="38403:38689" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="38487:38635" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="38741:39019" ph="{...}" />
+            <marker date="1648799799000" expanded="true" signature="38803:38940" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SafetyNet/Threshold1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <marker date="1647871981000" expanded="true" signature="6:90" ph="..." />
+            <marker date="1647871981000" expanded="true" signature="111:755" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="159:753" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="437:747" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SherlocksGambit/Game/Cell.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding>
+            <marker date="1647871981000" expanded="true" signature="66:1020" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="90:1018" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="172:275" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="591:870" ph="///Basic constructor for Cell ... " />
+            <marker date="1647871981000" expanded="true" signature="922:1012" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SherlocksGambit/Utils/Encryption/FenEncryption.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+          <folding>
+            <marker date="1648796810000" expanded="false" signature="6:227" ph="..." />
+            <marker date="1648796810000" expanded="true" signature="271:7878" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="311:7876" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="326:815" ph="///Encodes a board in its FEN notation ... " />
+            <marker date="1648796810000" expanded="true" signature="865:2675" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="948:2628" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="1044:2574" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="1213:1581" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="1304:1397" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="1466:1559" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="1651:2010" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="1819:1908" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="2035:2556" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="2126:2534" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="2225:2330" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="2403:2508" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="2685:4034" ph="/// Decodes a FEN-encoded board and places the pieces on the given board and in `PiecesDictionary` ... " />
+            <marker date="1648796810000" expanded="true" signature="4125:7870" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="4393:4754" ph="/* FEN notations starts from the lower left corner and goes to the upper right corner row by row ... */" />
+            <marker date="1648796810000" expanded="true" signature="4829:7860" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="5102:7540" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="5559:5695" ph="/* If `c` is a digit it then indicates how many cells to skip ... */" />
+            <marker date="1648796810000" expanded="true" signature="5736:6397" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="5783:5928" ph="/* Calculates the amount to skip. If greater than for or less than 0 (should not happen haha) ... */" />
+            <marker date="1648796810000" expanded="true" signature="6540:6691" ph="{...}" />
+            <marker date="1648796810000" expanded="true" signature="6713:6863" ph="/* At this point you have a lowercase char. If it is not an 'm' or and 'k' it is not recognized and ... */" />
+            <marker date="1648796810000" expanded="true" signature="7558:7699" ph="/* If at the end of the row's code segment you did not add a total of 4 pieces (null included) an ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SherlocksGambit/Game/Pieces/BasePiece.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+          <folding>
+            <marker date="1648046884000" expanded="false" signature="6:89" ph="..." />
+            <marker date="1648046884000" expanded="true" signature="128:19385" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="166:19383" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="591:964" ph="///Basic constructor for BasePiece ... " />
+            <marker date="1648046884000" expanded="true" signature="1018:1072" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="1082:1315" ph="///Abstract method to copy the BasePiece ... " />
+            <marker date="1648046884000" expanded="true" signature="1367:1803" ph="///Places the BasePiece on the provided cell ... " />
+            <marker date="1648046884000" expanded="true" signature="1843:1983" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="1993:2384" ph="///Kills the BasePiece ... " />
+            <marker date="1648046884000" expanded="true" signature="2434:2771" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="2553:2696" ph="/* If you are simulating a move we need to keep track of which cell the piece was on ... */" />
+            <marker date="1648046884000" expanded="true" signature="2781:3925" ph="///Gets all possible paths in all possible diagonals ... " />
+            <marker date="1648046884000" expanded="true" signature="4008:5521" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="4261:5486" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="4810:5378" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="4849:5010" ph="/* If you did not encounter enemies but you should have (prevEnemies is not null or you encountered ... */" />
+            <marker date="1648046884000" expanded="true" signature="5057:5091" ph="..." />
+            <marker date="1648046884000" expanded="true" signature="5233:5360" ph="..." />
+            <marker date="1648046884000" expanded="true" signature="5258:5329" ph="..." />
+            <marker date="1648046884000" expanded="true" signature="5531:6249" ph="///Returns a list of possible paths (if any) from a given position in a given direction ... " />
+            <marker date="1648046884000" expanded="true" signature="6352:11360" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="6485:6625" ph="/* Create the resulting list of PathObjects ... */" />
+            <marker date="1648046884000" expanded="true" signature="6932:7144" ph="/* Loop until no moves left ... */" />
+            <marker date="1648046884000" expanded="true" signature="7195:11325" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="7226:7363" ph="/* Update the current position in the direction specified ... */" />
+            <marker date="1648046884000" expanded="true" signature="7754:10374" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="8072:8213" ph="/* Update the current position in the direction specified ... */" />
+            <marker date="1648046884000" expanded="true" signature="8324:8473" ph="/* If `currPos` == 1 then cell is out of bounds, returns `res` ... */" />
+            <marker date="1648046884000" expanded="true" signature="8877:9053" ph="/* Reset the previously found (if piece is a king and if any) simple move because if a capture is ... */" />
+            <marker date="1648046884000" expanded="true" signature="9530:9904" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="9577:9714" ph="/* For each additional path found, concatenate their path with the current possible path and add ... */" />
+            <marker date="1648046884000" expanded="true" signature="10154:10324" ph="/* You have captured an enemy and checked if you could capture more, now you can just return `res` ... */" />
+            <marker date="1648046884000" expanded="true" signature="10710:10906" ph="/* If you are a king and that you have already used your simple move, you can now only add a possible ... */" />
+            <marker date="1648046884000" expanded="true" signature="11001:11156" ph="/* Create `res` if null then add to `res` a new PathObject with a copy of the current path and a copy of ... */" />
+            <marker date="1648046884000" expanded="true" signature="11370:11793" ph="///Checks if the BasePiece can move ... " />
+            <marker date="1648046884000" expanded="true" signature="11839:11974" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="11984:12935" ph="///Recreates all possible paths from a position to look for a target ... " />
+            <marker date="1648046884000" expanded="true" signature="13030:13546" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="13267:13511" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="13556:14429" ph="/// Checks if any of the player's pieces could have captured an enemy piece but the move chosen was a simple one ... " />
+            <marker date="1648046884000" expanded="true" signature="14483:14608" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="14618:15423" ph="///Prequel to its overloaded version, recreates a PathObject to a target Cell ... " />
+            <marker date="1648046884000" expanded="true" signature="15474:15859" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="15497:15658" ph="/* If action is wrong (could have eaten) then return false else recreates the path and return the result of ... */" />
+            <marker date="1648046884000" expanded="true" signature="15869:17295" ph="/// Overload for `Move` function replacing its parameters with a PathObject. Moves the BasePiece ... " />
+            <marker date="1648046884000" expanded="true" signature="17373:18016" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="18026:18686" ph="///[BONUS] Undoes a move ... " />
+            <marker date="1648046884000" expanded="true" signature="18745:19377" ph="{...}" />
+            <marker date="1648046884000" expanded="true" signature="19024:19160" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SherlocksGambit/Game/Board.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="96" column="54" selection-start-line="96" selection-start-column="54" selection-end-line="96" selection-end-column="54" />
+          <folding>
+            <marker date="1648813499000" expanded="false" signature="6:144" ph="..." />
+            <marker date="1648813499000" expanded="true" signature="176:10258" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="209:10256" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="882:1324" ph="///Basic constructor for Board ... " />
+            <marker date="1648813499000" expanded="true" signature="1366:1980" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="1389:1518" ph="/* Initialise `Positions` with new cells. ... */" />
+            <marker date="1648813499000" expanded="true" signature="1990:2407" ph="///Gets the CellState of a cell from a specific player's POV ... " />
+            <marker date="1648813499000" expanded="true" signature="2489:3277" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="2669:2834" ph="/* Get the cell at `targetPosition` (its index in `Positions` is one less than its board position) ... */" />
+            <marker date="1648813499000" expanded="true" signature="3001:3159" ph="/* Compare the target's current piece's color with `color` ... */" />
+            <marker date="1648813499000" expanded="true" signature="3287:3994" ph="///Initializes and returns a copy of the Board ... " />
+            <marker date="1648813499000" expanded="true" signature="4022:4650" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="4284:4616" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="4410:4602" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="4660:5085" ph="///Checks whether a player has won ... " />
+            <marker date="1648813499000" expanded="true" signature="5137:5832" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="5197:5493" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="5510:5822" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="5842:6335" ph="///Checks whether a player has lost ... " />
+            <marker date="1648813499000" expanded="true" signature="6388:7791" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="6448:7109" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="6743:7040" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="6853:6989" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="7126:7781" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="7421:7712" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="7525:7661" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="7801:8173" ph="///Rudimentary printing function ... " />
+            <marker date="1648813499000" expanded="true" signature="8201:10250" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="8311:8475" ph="/* `y` starts at BoardSize - 1 because of the discontinuity of the origin. ... */" />
+            <marker date="1648813499000" expanded="true" signature="8528:10127" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="8665:10075" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="9619:9936" ph="{...}" />
+            <marker date="1648813499000" expanded="true" signature="9683:9796" ph="..." />
+            <marker date="1648813499000" expanded="true" signature="9829:9914" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SherlocksGambit/Game/PathObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="40" column="76" selection-start-line="40" selection-start-column="76" selection-end-line="40" selection-end-column="76" />
+          <folding>
+            <marker date="1648812199000" expanded="true" signature="6:82" ph="..." />
+            <marker date="1648812199000" expanded="true" signature="114:2918" ph="{...}" />
+            <marker date="1648812199000" expanded="true" signature="144:2916" ph="{...}" />
+            <marker date="1648812199000" expanded="true" signature="159:303" ph="///Lists of cells representing the path to follow ... " />
+            <marker date="1648812199000" expanded="true" signature="469:783" ph="///Basic constructor for PathObject ... " />
+            <marker date="1648812199000" expanded="true" signature="851:927" ph="{...}" />
+            <marker date="1648812199000" expanded="true" signature="937:1323" ph="///Creates a clone of this PathObject in a new referential, the targeted Board ... " />
+            <marker date="1648812199000" expanded="true" signature="1378:1949" ph="{...}" />
+            <marker date="1648812199000" expanded="true" signature="1570:1677" ph="{...}" />
+            <marker date="1648812199000" expanded="true" signature="1742:1880" ph="{...}" />
+            <marker date="1648812199000" expanded="true" signature="1959:2597" ph="///[BONUS] Checks if a given object is equal to this PathObject ... " />
+            <marker date="1648812199000" expanded="true" signature="2645:2734" ph="{...}" />
+            <marker date="1648812199000" expanded="true" signature="2838:2910" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SafetyNet/Threshold2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3630">
+          <caret line="157" column="31" selection-start-line="157" selection-start-column="31" selection-end-line="157" selection-end-column="31" />
+          <folding>
+            <marker date="1648813936000" expanded="true" signature="6:250" ph="..." />
+            <marker date="1648813936000" expanded="true" signature="271:7763" ph="{...}" />
+            <marker date="1648813936000" expanded="true" signature="319:7761" ph="{...}" />
+            <marker date="1648813936000" expanded="true" signature="938:1038" ph="{...}" />
+            <marker date="1648813936000" expanded="true" signature="1652:1753" ph="{...}" />
+            <marker date="1648813936000" expanded="true" signature="2364:2577" ph="{...}" />
+            <marker date="1648813936000" expanded="true" signature="2651:2918" ph="{...}" />
+            <marker date="1648813936000" expanded="true" signature="2993:3262" ph="{...}" />
+            <marker date="1648813936000" expanded="true" signature="3542:6073" ph="{...}" />
+            <marker date="1648813936000" expanded="true" signature="3974:4469" ph="{...}" />
+            <marker date="1648813936000" expanded="true" signature="4531:6063" ph="{...}" />
+            <marker date="1648813936000" expanded="true" signature="5208:5847" ph="{...}" />
+            <marker date="1648813936000" expanded="true" signature="6363:7755" ph="{...}" />
+            <marker date="1648813936000" expanded="true" signature="7357:7460" ph="/* Move both pieces on their respective board ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SherlocksGambit/Game/Pieces/PieceManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-638">
+          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+          <folding>
+            <marker date="1647871981000" expanded="false" signature="6:124" ph="..." />
+            <marker date="1647871981000" expanded="true" signature="163:3934" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="195:3932" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="351:807" ph="///Basic constructor for PieceManager ... " />
+            <marker date="1647871981000" expanded="true" signature="864:1242" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="1260:1614" ph="///Adds a BasePiece to the dictionary ... " />
+            <marker date="1647871981000" expanded="true" signature="1660:1734" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="1744:2110" ph="///Removes a BasePiece off the dictionary ... " />
+            <marker date="1647871981000" expanded="true" signature="2159:2236" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="2246:2739" ph="///Promotes a Man to a King ... " />
+            <marker date="1647871981000" expanded="true" signature="2815:3218" ph="{...}" />
+            <marker date="1647871981000" expanded="true" signature="3236:3760" ph="///[BONUS] Demotes a King to a Man ... " />
+            <marker date="1647871981000" expanded="true" signature="3837:3926" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

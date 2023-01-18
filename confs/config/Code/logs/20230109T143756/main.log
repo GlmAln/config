@@ -1,0 +1,4 @@
+[2023-01-09 14:37:56.377] [main] [info] update#setState idle
+[2023-01-09 14:37:58.492] [main] [info] Starting extension host with pid 7301 (fork() took 19 ms).
+[2023-01-09 14:38:26.379] [main] [info] update#setState checking for updates
+[2023-01-09 14:38:26.383] [main] [info] update#setState available for download

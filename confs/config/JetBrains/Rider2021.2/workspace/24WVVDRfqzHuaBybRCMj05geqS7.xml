@@ -1,0 +1,458 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HttpD/Encryption.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="855">
+              <caret line="444" column="35" selection-start-line="444" selection-start-column="35" selection-end-line="444" selection-end-column="35" />
+              <folding>
+                <marker date="1644359874000" expanded="false" signature="6:47" ph="..." />
+                <marker date="1644359874000" expanded="true" signature="64:23088" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="94:23086" ph="{...}" />
+                <marker date="1644359874000" expanded="false" signature="382:14911" ph="Lookup tables" />
+                <marker date="1644359874000" expanded="true" signature="465:583" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="646:2372" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="2438:4164" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="4225:5951" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="6012:7738" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="7799:9525" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="9587:11313" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="11375:13101" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="13163:14889" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="14921:15090" ph="/// Apply and reverse the rijndael s-box to all elements in an array ... " />
+                <marker date="1644359874000" expanded="true" signature="15130:15266" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="15187:15256" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="15318:15457" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="15375:15447" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="15467:15679" ph="/// Perform the core key schedule transform on 4 bytes, as part of the key expansion process ... " />
+                <marker date="1644359874000" expanded="true" signature="15728:15927" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="15778:15855" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="15937:16050" ph="/// Xor's the elements in A, by B, starting at the given offset in B ... " />
+                <marker date="1644359874000" expanded="true" signature="16111:16238" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="16161:16228" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="16248:16411" ph="/// Expand the 128-bit key to 11 round keys ... " />
+                <marker date="1644359874000" expanded="true" signature="16459:17580" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="16602:16661" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="16718:17538" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="16828:16897" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="17000:17134" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="17184:17299" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="17337:17410" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="17455:17524" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="17590:17691" ph="/// Xor the current cipher state by a specific round key ... " />
+                <marker date="1644359874000" expanded="true" signature="17773:17913" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="17824:17903" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="17923:18114" ph="/// Apply the shift rows step on the 16 byte cipher state ... " />
+                <marker date="1644359874000" expanded="true" signature="18158:18505" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="18284:18350" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="18414:18495" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="18515:18619" ph="/// Reverse the shift rows step on the 16 byte cipher state ... " />
+                <marker date="1644359874000" expanded="true" signature="18667:18822" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="18728:18812" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="18832:18998" ph="/// Perform the mix columns matrix on one column of 4 bytes ... " />
+                <marker date="1644359874000" expanded="true" signature="19052:19689" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="19181:19249" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="19315:19640" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="19699:19811" ph="/// Perform the inverse mix columns matrix on one column of 4 bytes ... " />
+                <marker date="1644359874000" expanded="true" signature="19869:20569" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="19998:20066" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="20119:20495" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="20587:20697" ph="/// Perform the mix columns matrix on each column of the 16 bytes ... " />
+                <marker date="1644359874000" expanded="true" signature="20747:20881" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="20797:20858" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="20891:21009" ph="/// Perform the reverse mix columns matrix on each column of the 16 bytes ... " />
+                <marker date="1644359874000" expanded="true" signature="21062:21186" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="21112:21176" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="21196:21373" ph="/// Encrypt a single 128 bit block by a 128 bit key using AES  ... " />
+                <marker date="1644359874000" expanded="true" signature="21430:21877" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="21576:21737" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="21887:21994" ph="/// Decrypt a single 128 bit block by a 128 bit key using AES  ... " />
+                <marker date="1644359874000" expanded="true" signature="22051:22434" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="22231:22401" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="22444:22522" ph="/// Convert a hex string to bytes ... " />
+                <marker date="1644359874000" expanded="true" signature="22564:22762" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="22772:22846" ph="/// Pretty-print a byte array ... " />
+                <marker date="1644359874000" expanded="true" signature="22897:23080" ph="{...}" />
+                <marker date="1644359874000" expanded="true" signature="22992:23057" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HttpD/MiniHttps.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <folding>
+                <marker date="1644359099000" expanded="true" signature="30:931" ph="{...}" />
+                <marker date="1644359099000" expanded="true" signature="59:929" ph="{...}" />
+                <marker date="1644359099000" expanded="true" signature="186:340" ph="{...}" />
+                <marker date="1644359099000" expanded="true" signature="398:525" ph="{...}" />
+                <marker date="1644359099000" expanded="true" signature="589:716" ph="{...}" />
+                <marker date="1644359099000" expanded="true" signature="770:923" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HttpD/HttpClient.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-327">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <marker date="1643964958000" expanded="false" signature="6:152" ph="..." />
+                <marker date="1643964958000" expanded="true" signature="169:1515" ph="{...}" />
+                <marker date="1643964958000" expanded="true" signature="205:1513" ph="{...}" />
+                <marker date="1643964958000" expanded="true" signature="305:406" ph="/* TODO: getter for _httpClient named `httpClient` ... */" />
+                <marker date="1643964958000" expanded="true" signature="594:822" ph="{...}" />
+                <marker date="1643964958000" expanded="true" signature="890:1272" ph="{...}" />
+                <marker date="1643964958000" expanded="true" signature="1335:1507" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HttpD/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="78" column="12" lean-forward="true" selection-start-line="78" selection-start-column="12" selection-end-line="85" selection-end-column="55" />
+              <folding>
+                <marker date="1644356704000" expanded="false" signature="6:89" ph="..." />
+                <marker date="1644356704000" expanded="true" signature="106:3598" ph="{...}" />
+                <marker date="1644356704000" expanded="true" signature="126:3596" ph="{...}" />
+                <marker date="1644356704000" expanded="true" signature="172:3590" ph="{...}" />
+                <marker date="1644356704000" expanded="true" signature="195:412" ph="/* HttpClientStream clientStream = new HttpClientStream(HttpMethod.Get,&quot;https://www.aufourire.com/produits/masque ... */" />
+                <marker date="1644356704000" expanded="true" signature="426:2111" ph="/* byte[] key = new byte[] {0x54, 0x68, 0x61, 0x74, 0x73, 0x20, 0x6D, 0x79, 0x20, 0x4B, 0x75, 0x6E, 0x67, 0x20, 0 ... */" />
+                <marker date="1644356704000" expanded="true" signature="2124:3182" ph="/* byte[] test = { 0x63 ,0xEB,0x9F,0xA0,0xC0, 0x2F, 0x93, 0x92, 0xAB, 0x30, 0xAF, 0xC7, 0x20, 0xCB, 0x2B, 0xA2 }; ... */" />
+                <marker date="1644356704000" expanded="true" signature="3452:3524" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/HttpD/Program.cs" />
+      <option value="$PROJECT_DIR$/HttpD/MiniHttps.cs" />
+      <option value="$PROJECT_DIR$/HttpD/Encryption.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.HttpD/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="HttpD" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="HttpD" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="HttpD" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="HttpD" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="HttpD" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MiniHttps.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14034000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25026095" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.24831893" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40009606" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.3299712" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="8" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="dotTrace Profiler" order="11" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="NuGet" order="15" />
+      <window_info anchor="bottom" id="Flow" order="16" />
+      <window_info anchor="bottom" id="Endpoints" order="17" />
+      <window_info anchor="bottom" id="Services" order="18" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="IL Viewer" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="3" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state width="1874" height="230" key="GridCell.Tab.0.bottom" timestamp="1644358049830">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="230" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1644358049830" />
+    <state width="1874" height="230" key="GridCell.Tab.0.center" timestamp="1644358049829">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="230" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1644358049829" />
+    <state width="1874" height="230" key="GridCell.Tab.0.left" timestamp="1644358049829">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="230" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1644358049829" />
+    <state width="1874" height="230" key="GridCell.Tab.0.right" timestamp="1644358049830">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="230" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1644358049830" />
+    <state width="1874" height="415" key="GridCell.Tab.1.bottom" timestamp="1644352841463">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841463" />
+    <state width="1874" height="415" key="GridCell.Tab.1.center" timestamp="1644352841463">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841463" />
+    <state width="1874" height="415" key="GridCell.Tab.1.left" timestamp="1644352841462">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841462" />
+    <state width="1874" height="415" key="GridCell.Tab.1.right" timestamp="1644352841463">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841463" />
+    <state width="1874" height="415" key="GridCell.Tab.2.bottom" timestamp="1644352841464">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841464" />
+    <state width="1874" height="415" key="GridCell.Tab.2.center" timestamp="1644352841463">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841463" />
+    <state width="1874" height="415" key="GridCell.Tab.2.left" timestamp="1644352841463">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841463" />
+    <state width="1874" height="415" key="GridCell.Tab.2.right" timestamp="1644352841464">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841464" />
+    <state width="1874" height="415" key="GridCell.Tab.3.bottom" timestamp="1644352841465">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841465" />
+    <state width="1874" height="415" key="GridCell.Tab.3.center" timestamp="1644352841464">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841464" />
+    <state width="1874" height="415" key="GridCell.Tab.3.left" timestamp="1644352841464">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841464" />
+    <state width="1874" height="415" key="GridCell.Tab.3.right" timestamp="1644352841464">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841464" />
+    <state width="1874" height="415" key="GridCell.Tab.4.bottom" timestamp="1644352841466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841466" />
+    <state width="1874" height="415" key="GridCell.Tab.4.center" timestamp="1644352841465">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.center/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841465" />
+    <state width="1874" height="415" key="GridCell.Tab.4.left" timestamp="1644352841465">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.left/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841465" />
+    <state width="1874" height="415" key="GridCell.Tab.4.right" timestamp="1644352841465">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.right/0.0.1920.1080@0.0.1920.1080" timestamp="1644352841465" />
+    <state x="0" y="0" width="1920" height="1061" key="VCS.FileHistoryDialog" timestamp="1644359898358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1920" height="1061" key="VCS.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1644359898358" />
+    <state x="622" y="245" key="run.anything.popup" timestamp="1644356872021">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="245" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1644356872021" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HttpD/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="78" column="12" lean-forward="true" selection-start-line="78" selection-start-column="12" selection-end-line="85" selection-end-column="55" />
+          <folding>
+            <marker date="1644356704000" expanded="false" signature="6:89" ph="..." />
+            <marker date="1644356704000" expanded="true" signature="106:3598" ph="{...}" />
+            <marker date="1644356704000" expanded="true" signature="126:3596" ph="{...}" />
+            <marker date="1644356704000" expanded="true" signature="172:3590" ph="{...}" />
+            <marker date="1644356704000" expanded="true" signature="195:412" ph="/* HttpClientStream clientStream = new HttpClientStream(HttpMethod.Get,&quot;https://www.aufourire.com/produits/masque ... */" />
+            <marker date="1644356704000" expanded="true" signature="426:2111" ph="/* byte[] key = new byte[] {0x54, 0x68, 0x61, 0x74, 0x73, 0x20, 0x6D, 0x79, 0x20, 0x4B, 0x75, 0x6E, 0x67, 0x20, 0 ... */" />
+            <marker date="1644356704000" expanded="true" signature="2124:3182" ph="/* byte[] test = { 0x63 ,0xEB,0x9F,0xA0,0xC0, 0x2F, 0x93, 0x92, 0xAB, 0x30, 0xAF, 0xC7, 0x20, 0xCB, 0x2B, 0xA2 }; ... */" />
+            <marker date="1644356704000" expanded="true" signature="3452:3524" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpD/MiniHttps.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <marker date="1644359099000" expanded="true" signature="30:931" ph="{...}" />
+            <marker date="1644359099000" expanded="true" signature="59:929" ph="{...}" />
+            <marker date="1644359099000" expanded="true" signature="186:340" ph="{...}" />
+            <marker date="1644359099000" expanded="true" signature="398:525" ph="{...}" />
+            <marker date="1644359099000" expanded="true" signature="589:716" ph="{...}" />
+            <marker date="1644359099000" expanded="true" signature="770:923" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpD/HttpClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-327">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1643964958000" expanded="false" signature="6:152" ph="..." />
+            <marker date="1643964958000" expanded="true" signature="169:1515" ph="{...}" />
+            <marker date="1643964958000" expanded="true" signature="205:1513" ph="{...}" />
+            <marker date="1643964958000" expanded="true" signature="305:406" ph="/* TODO: getter for _httpClient named `httpClient` ... */" />
+            <marker date="1643964958000" expanded="true" signature="594:822" ph="{...}" />
+            <marker date="1643964958000" expanded="true" signature="890:1272" ph="{...}" />
+            <marker date="1643964958000" expanded="true" signature="1335:1507" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HttpD/Encryption.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="444" column="35" selection-start-line="444" selection-start-column="35" selection-end-line="444" selection-end-column="35" />
+          <folding>
+            <marker date="1644359874000" expanded="false" signature="6:47" ph="..." />
+            <marker date="1644359874000" expanded="true" signature="64:23088" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="94:23086" ph="{...}" />
+            <marker date="1644359874000" expanded="false" signature="382:14911" ph="Lookup tables" />
+            <marker date="1644359874000" expanded="true" signature="465:583" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="646:2372" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="2438:4164" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="4225:5951" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="6012:7738" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="7799:9525" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="9587:11313" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="11375:13101" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="13163:14889" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="14921:15090" ph="/// Apply and reverse the rijndael s-box to all elements in an array ... " />
+            <marker date="1644359874000" expanded="true" signature="15130:15266" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="15187:15256" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="15318:15457" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="15375:15447" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="15467:15679" ph="/// Perform the core key schedule transform on 4 bytes, as part of the key expansion process ... " />
+            <marker date="1644359874000" expanded="true" signature="15728:15927" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="15778:15855" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="15937:16050" ph="/// Xor's the elements in A, by B, starting at the given offset in B ... " />
+            <marker date="1644359874000" expanded="true" signature="16111:16238" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="16161:16228" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="16248:16411" ph="/// Expand the 128-bit key to 11 round keys ... " />
+            <marker date="1644359874000" expanded="true" signature="16459:17580" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="16602:16661" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="16718:17538" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="16828:16897" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="17000:17134" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="17184:17299" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="17337:17410" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="17455:17524" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="17590:17691" ph="/// Xor the current cipher state by a specific round key ... " />
+            <marker date="1644359874000" expanded="true" signature="17773:17913" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="17824:17903" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="17923:18114" ph="/// Apply the shift rows step on the 16 byte cipher state ... " />
+            <marker date="1644359874000" expanded="true" signature="18158:18505" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="18284:18350" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="18414:18495" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="18515:18619" ph="/// Reverse the shift rows step on the 16 byte cipher state ... " />
+            <marker date="1644359874000" expanded="true" signature="18667:18822" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="18728:18812" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="18832:18998" ph="/// Perform the mix columns matrix on one column of 4 bytes ... " />
+            <marker date="1644359874000" expanded="true" signature="19052:19689" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="19181:19249" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="19315:19640" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="19699:19811" ph="/// Perform the inverse mix columns matrix on one column of 4 bytes ... " />
+            <marker date="1644359874000" expanded="true" signature="19869:20569" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="19998:20066" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="20119:20495" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="20587:20697" ph="/// Perform the mix columns matrix on each column of the 16 bytes ... " />
+            <marker date="1644359874000" expanded="true" signature="20747:20881" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="20797:20858" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="20891:21009" ph="/// Perform the reverse mix columns matrix on each column of the 16 bytes ... " />
+            <marker date="1644359874000" expanded="true" signature="21062:21186" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="21112:21176" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="21196:21373" ph="/// Encrypt a single 128 bit block by a 128 bit key using AES  ... " />
+            <marker date="1644359874000" expanded="true" signature="21430:21877" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="21576:21737" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="21887:21994" ph="/// Decrypt a single 128 bit block by a 128 bit key using AES  ... " />
+            <marker date="1644359874000" expanded="true" signature="22051:22434" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="22231:22401" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="22444:22522" ph="/// Convert a hex string to bytes ... " />
+            <marker date="1644359874000" expanded="true" signature="22564:22762" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="22772:22846" ph="/// Pretty-print a byte array ... " />
+            <marker date="1644359874000" expanded="true" signature="22897:23080" ph="{...}" />
+            <marker date="1644359874000" expanded="true" signature="22992:23057" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

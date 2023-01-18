@@ -1,0 +1,328 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MiniTests/EmptyFunctions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="34" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="34" />
+              <folding>
+                <marker date="1651455036000" expanded="true" signature="75:380" ph="{...}" />
+                <marker date="1651455036000" expanded="true" signature="134:223" ph="{...}" />
+                <marker date="1651455036000" expanded="true" signature="285:374" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MiniTests/SuspiciousFunctions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="24" column="9" selection-start-line="4" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
+              <folding>
+                <marker date="1653567304113" expanded="true" signature="65:1509" ph="{...}" />
+                <marker date="1653567304113" expanded="true" signature="114:491" ph="{...}" />
+                <marker date="1653567304113" expanded="true" signature="348:456" ph="{...}" />
+                <marker date="1653567304113" expanded="true" signature="536:1109" ph="{...}" />
+                <marker date="1653567304113" expanded="true" signature="898:1075" ph="{...}" />
+                <marker date="1653567304113" expanded="true" signature="1157:1503" ph="{...}" />
+                <marker date="1653567304113" expanded="true" signature="1307:1464" ph="{...}" />
+                <marker date="1653567304113" expanded="true" signature="1350:1450" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MiniTests/EmptyFunctionsTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <folding>
+                <marker date="1653567559707" expanded="true" signature="34:101" ph="{...}" />
+                <marker date="1653567559707" expanded="true" signature="54:99" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SudokuSolver/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+              <folding>
+                <marker date="1653567304115" expanded="true" signature="19:133" ph="{...}" />
+                <marker date="1653567304115" expanded="true" signature="39:131" ph="{...}" />
+                <marker date="1653567304115" expanded="true" signature="92:125" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/MiniTests/SuspiciousFunctions.cs" />
+      <option value="$PROJECT_DIR$/SudokuSolver/Program.cs" />
+      <option value="$PROJECT_DIR$/MiniTests/EmptyFunctionsTests.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.SudokuSolver/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SudokuSolver" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SudokuSolver" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MiniTests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SudokuSolver" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SudokuSolver" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SudokuSolver" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SudokuSolverTests" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SudokuSolver" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MiniTests" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="EmptyFunctionsTests.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1494000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25026095" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3299712" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40009606" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="TypeScript" order="6" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="7" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="Unit Tests" order="9" weight="0.3299712" />
+      <window_info anchor="bottom" id="dotTrace Profiler" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="NuGet" order="14" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Endpoints" order="17" />
+      <window_info anchor="bottom" id="Build" order="18" visible="true" weight="0.3299712" />
+      <window_info anchor="bottom" id="Services" order="19" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="IL Viewer" order="1" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Unit Tests</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state width="1874" height="315" key="GridCell.Tab.0.bottom" timestamp="1653567304129">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="315" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304129" />
+    <state width="1874" height="315" key="GridCell.Tab.0.center" timestamp="1653567304129">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="315" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304129" />
+    <state width="1874" height="315" key="GridCell.Tab.0.left" timestamp="1653567304128">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="315" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304128" />
+    <state width="1874" height="315" key="GridCell.Tab.0.right" timestamp="1653567304129">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="315" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304129" />
+    <state width="1874" height="415" key="GridCell.Tab.1.bottom" timestamp="1653567304119">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304119" />
+    <state width="1874" height="415" key="GridCell.Tab.1.center" timestamp="1653567304119">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304119" />
+    <state width="1874" height="415" key="GridCell.Tab.1.left" timestamp="1653567304119">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304119" />
+    <state width="1874" height="415" key="GridCell.Tab.1.right" timestamp="1653567304119">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304119" />
+    <state width="1874" height="415" key="GridCell.Tab.2.bottom" timestamp="1653567304120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304120" />
+    <state width="1874" height="415" key="GridCell.Tab.2.center" timestamp="1653567304120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304120" />
+    <state width="1874" height="415" key="GridCell.Tab.2.left" timestamp="1653567304120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304120" />
+    <state width="1874" height="415" key="GridCell.Tab.2.right" timestamp="1653567304120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304120" />
+    <state width="1874" height="415" key="GridCell.Tab.3.bottom" timestamp="1653567304121">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304121" />
+    <state width="1874" height="415" key="GridCell.Tab.3.center" timestamp="1653567304121">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304121" />
+    <state width="1874" height="415" key="GridCell.Tab.3.left" timestamp="1653567304120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304120" />
+    <state width="1874" height="415" key="GridCell.Tab.3.right" timestamp="1653567304121">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304121" />
+    <state width="1874" height="415" key="GridCell.Tab.4.bottom" timestamp="1653567304122">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304122" />
+    <state width="1874" height="415" key="GridCell.Tab.4.center" timestamp="1653567304121">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.center/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304121" />
+    <state width="1874" height="415" key="GridCell.Tab.4.left" timestamp="1653567304121">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.left/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304121" />
+    <state width="1874" height="415" key="GridCell.Tab.4.right" timestamp="1653567304122">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.right/0.0.1920.1080@0.0.1920.1080" timestamp="1653567304122" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MiniTests/SuspiciousFunctionsTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1651455036000" expanded="false" signature="6:67" ph="..." />
+            <marker date="1651455036000" expanded="true" signature="88:798" ph="{...}" />
+            <marker date="1651455036000" expanded="true" signature="132:796" ph="{...}" />
+            <marker date="1651455036000" expanded="true" signature="318:391" ph="{...}" />
+            <marker date="1651455036000" expanded="true" signature="715:790" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniTests/EmptyFunctions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <marker date="1651455036000" expanded="true" signature="75:380" ph="{...}" />
+            <marker date="1651455036000" expanded="true" signature="134:223" ph="{...}" />
+            <marker date="1651455036000" expanded="true" signature="285:374" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniTests/SuspiciousFunctions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <marker date="1653567304113" expanded="true" signature="65:1509" ph="{...}" />
+            <marker date="1653567304113" expanded="true" signature="114:491" ph="{...}" />
+            <marker date="1653567304113" expanded="true" signature="348:456" ph="{...}" />
+            <marker date="1653567304113" expanded="true" signature="536:1109" ph="{...}" />
+            <marker date="1653567304113" expanded="true" signature="898:1075" ph="{...}" />
+            <marker date="1653567304113" expanded="true" signature="1157:1503" ph="{...}" />
+            <marker date="1653567304113" expanded="true" signature="1307:1464" ph="{...}" />
+            <marker date="1653567304113" expanded="true" signature="1350:1450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MiniTests/EmptyFunctionsTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <marker date="1653567559707" expanded="true" signature="34:101" ph="{...}" />
+            <marker date="1653567559707" expanded="true" signature="54:99" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SudokuSolver/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+          <folding>
+            <marker date="1653567304115" expanded="true" signature="19:133" ph="{...}" />
+            <marker date="1653567304115" expanded="true" signature="39:131" ph="{...}" />
+            <marker date="1653567304115" expanded="true" signature="92:125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

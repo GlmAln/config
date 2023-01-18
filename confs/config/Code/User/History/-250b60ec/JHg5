@@ -1,0 +1,12 @@
+CC = gcc
+CFLAGS = -std=c99 -Werror -Wall -Wextra
+
+SRC = $(wildcard src/*.c)
+OBJ = $(patsubst %.c,%.o,$(SRC)) 
+
+.PHONY clean
+clean :
+	$(RM) src/shell
+shell: 
+	$(CC) $(CFLAGS) -o shell $(SRC)
+clean:

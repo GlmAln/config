@@ -1,0 +1,61 @@
+<application>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="218YCnVd6HYthtoOyX8tFFMXkKA">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="218YEoFh1Tv8GkAmVDicRCyBHeh">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21SKw8UaE3xqfGjCCkZUwxNfYpJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21dEJ46aDmeOzekE7o4a0elbPL3">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="225tNRcJfynUmrbd4e7My7xE9DI">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Debug.Allow.Typing" value="true" />
+    <property name="Non.Modal.Commit.Single.Click2" value="true" />
+    <property name="Non.Modal.Commit4" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RD.Light.Edit.Disabled" value="true" />
+    <property name="RD.Switch.Laf" value="true" />
+    <property name="Tutorials.In.Recent.Projects.Disabled" value="true" />
+    <property name="appcds.runOnSecondStart" value="RD-211.7628.61-8b4b7f7efc34c5ead412bc34c8262a469f1e4bc4efb66bae12a5ed2df130ad83" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="evlsprt3.211" value="18" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/afs/tp_prog/tp3-guillaume-alain.priso-totto/skeleton/Arrays101&#10;/home/guillaume-alain.priso-totto/afs/tp_prog/tp2-guillaume-alain.priso-totto" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector" />
+    <property name="ide.updates.previous.build.number" value="RD-211.7628.61" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="$USER_HOME$/afs/tp_prog/tp3-guillaume-alain.priso-totto/skeleton/Arrays101" />
+    <property name="last_opened_file_path" value="$USER_HOME$/afs/tp_prog/tp3-guillaume-alain.priso-totto/skeleton/Arrays101" />
+    <property name="last_selected_template" value="Empty Solution|" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.2.2" />
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

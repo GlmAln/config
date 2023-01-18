@@ -1,0 +1,69 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="/afs/cri.epita.fr/user/g/gu/guillaume-alain.priso-totto/u/tp_prog/tp0-guillaume-alain.priso-totto/skeleton/tp0/Basics/Basics/Basics.csproj">
+          <value>
+            <RecentProjectMetaInfo displayName="Basics" frameTitle="Basics" projectWorkspaceId="218YCnVd6HYthtoOyX8tFFMXkKA">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-211.7628.61" />
+              <option name="buildTimestamp" value="1626955354467" />
+              <frame x="0" y="0" width="1920" height="1061" />
+              <option name="metadata" value="Basics|/afs/cri.epita.fr/user/g/gu/guillaume-alain.priso-totto/u/tp_prog/tp0-guillaume-alain.priso-totto/skeleton/tp0/Basics/Basics/Basics.csproj" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1637324930020" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/afs/cri.epita.fr/user/g/gu/guillaume-alain.priso-totto/u/tp_prog/tp0-guillaume-alain.priso-totto/skeleton/tp0/Basics/Basics.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Basics – Basics.cs" projectWorkspaceId="218YEoFh1Tv8GkAmVDicRCyBHeh">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-211.7628.61" />
+              <option name="buildTimestamp" value="1626955325110" />
+              <frame x="0" y="0" width="1920" height="1061" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1637576429202" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/afs/cri.epita.fr/user/g/gu/guillaume-alain.priso-totto/u/tp_prog/tp1-guillaume-alain.priso-totto/Case1-HangedMan/Case1-HangedMan.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Case1-HangedMan – Game.cs" projectWorkspaceId="21SKw8UaE3xqfGjCCkZUwxNfYpJ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-211.7628.61" />
+              <option name="buildTimestamp" value="1626955324454" />
+              <frame x="0" y="0" width="1920" height="1061" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1637929284960" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/afs/tp_prog/tp2-guillaume-alain.priso-totto/Exercices/Exercices.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Exercices – Loop.cs" projectWorkspaceId="21dEJ46aDmeOzekE7o4a0elbPL3">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-211.7628.61" />
+              <option name="buildTimestamp" value="1626955363919" />
+              <frame x="0" y="0" width="1920" height="1061" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1638263583671" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/afs/tp_prog/tp3-guillaume-alain.priso-totto/skeleton/Arrays101/Arrays101.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Arrays101 – Arrays.cs" opened="true" projectWorkspaceId="225tNRcJfynUmrbd4e7My7xE9DI">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-211.7628.61" />
+              <option name="buildTimestamp" value="1626955361801" />
+              <frame x="960" y="0" width="960" height="1061" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1639139237827" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

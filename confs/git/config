@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/epita/epita-default-confs
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[submodule "vim/bundle/Vundle.vim"]
+	active = true
+	url = https://github.com/VundleVim/Vundle.vim.git
+[submodule "vim/bundle/vim-sensible"]
+	active = true
+	url = https://github.com/tpope/vim-sensible.git

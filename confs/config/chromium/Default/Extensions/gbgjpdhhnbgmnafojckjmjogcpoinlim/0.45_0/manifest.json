@@ -1,0 +1,25 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "icons/Avatar_24.png"
+   },
+   "description": "Play Farmville2 using this latest Extension from Zynga Inc.",
+   "externally_connectable": {
+      "matches": [ "https://*.farm2.zynga.com/*" ]
+   },
+   "icons": {
+      "128": "icons/Avatar_128.png",
+      "16": "icons/Avatar_16.png",
+      "48": "icons/Avatar_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2R7jOLWkpQqug9q6a90hOZhmQLMYBL30HdTJbpSm8YN5vdRBI+U/Ummyb9LqBAiFzzE5j8UQ6PI7eZ/GsN9a/iBaHTatERxpG/Kh6orsWonJMeKEuKgvOSpbHwv7dUO3EtQD+Nd4EI7f9UUYs7JlMqTbT4cUkIfVYTlJclK4/cbYVOlO/bEVGDqBPZ6tsFJowHEFDMr3Joi1SMOBnrFqQew3CoqEo83j8GuDSNFZCMOpsZYuGwTlcNREbRX3OIQ/B0DAjr6zk1nE1xCCvU806jBAbxRjGbNqwsleLmNq5FZ1M2beBYO2LUuXSelQk/E9XJyeHkmbZxXaI63yE/ThyQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "38",
+   "name": "Farmville2 X-Press",
+   "permissions": [ "contentSettings", "activeTab", "storage", "https://*.zynga.com/*", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.45",
+   "web_accessible_resources": [ "view/index.html", "*.png" ]
+}

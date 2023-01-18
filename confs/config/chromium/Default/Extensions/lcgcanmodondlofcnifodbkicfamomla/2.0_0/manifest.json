@@ -1,0 +1,23 @@
+{
+   "action": {
+      "default_icon": "images/icon128.png"
+   },
+   "author": "Bishnu",
+   "background": {
+      "service_worker": "scripts/service-worker.js"
+   },
+   "default_locale": "en",
+   "description": "Getaway Shootout Online is a 2-player shooting game where you have to jump around and kill.",
+   "host_permissions": [ "https://allunblockedgames.com/panel/" ],
+   "icons": {
+      "128": "images/icon128.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgzzJ301N80mOoIPra1uNFNndUYMA0aKa0Vddw9cHFesBT2F0M+zCdXqDpst5lwrOzgkUyM39xKofzsqGQm3qvnTVYjazO6BW3K3IQdtkN7Sl4iNd0uM/8HKzd3EJnGnDznb/P3BUhwEErQlVWkp3JMhDG6rc+2SU3yGvenFYzBq1Wik8o2apL1Uol103uaBWuoNSH4wF9j/09Fy6m5hDIlIeyWo/egbxTd9MqbtQDq29q2E2s4fZR3TqdRNMfFtMqNE64Z6peVPLanD2DWkPHuHMNG4wpRrBRwz2Ttw7MSkoGlkte4OEA1RfCYeTwqChzWP0Vs2xywVR71KcXBKFGQIDAQAB",
+   "manifest_version": 3,
+   "name": "Getaway Shootout Online Free GamePlay ",
+   "offline_enabled": false,
+   "permissions": [ "storage", "notifications", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0"
+}

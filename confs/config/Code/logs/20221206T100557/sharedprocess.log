@@ -1,0 +1,71 @@
+[2022-12-06 10:05:59.847] [sharedprocess] [info] Starting worker process with pid 8495 (type: fileWatcher, window: 1).
+[2022-12-06 10:10:02.181] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-12-06 10:10:02.737] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-12-06 10:10:04.441] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-12-06 10:10:05.127] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-12-06 10:10:05.864] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-12-06 10:10:06.021] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-12-06 10:10:06.267] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-12-06 10:10:06.267] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-12-06 10:10:06.268] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-12-06 10:10:06.268] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-12-06 10:10:06.473] [sharedprocess] [info] Downloaded extension: ms-python.python /home/guillaume-alain.priso-totto/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.16.1
+[2022-12-06 10:10:06.474] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/guillaume-alain.priso-totto/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.6.1201981810
+[2022-12-06 10:10:06.475] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/guillaume-alain.priso-totto/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-12-06 10:10:06.475] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/guillaume-alain.priso-totto/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.9
+[2022-12-06 10:10:06.535] [sharedprocess] [info] Extracted extension to /home/guillaume-alain.priso-totto/.vscode/extensions/.be3fcf10-11cd-4100-b7da-f3a6a40cd13a: ms-toolsai.jupyter-keymap
+[2022-12-06 10:10:06.538] [sharedprocess] [info] Renamed to /home/guillaume-alain.priso-totto/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-12-06 10:10:06.540] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-12-06 10:10:07.857] [sharedprocess] [info] Extracted extension to /home/guillaume-alain.priso-totto/.vscode/extensions/.82515cac-ee03-4dd1-8028-cd482bd48f9d: ms-toolsai.jupyter-renderers
+[2022-12-06 10:10:07.859] [sharedprocess] [info] Renamed to /home/guillaume-alain.priso-totto/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.9
+[2022-12-06 10:10:07.861] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-12-06 10:10:10.411] [sharedprocess] [info] Extracted extension to /home/guillaume-alain.priso-totto/.vscode/extensions/.e04fc4a0-21aa-437c-8832-daa8407845c1: ms-python.python
+[2022-12-06 10:10:10.422] [sharedprocess] [info] Renamed to /home/guillaume-alain.priso-totto/.vscode/extensions/ms-python.python-2022.16.1
+[2022-12-06 10:10:10.427] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-12-06 10:10:10.660] [sharedprocess] [info] Extracted extension to /home/guillaume-alain.priso-totto/.vscode/extensions/.f5a866cd-8a63-4363-9b50-1e74075b6a7e: ms-toolsai.jupyter
+[2022-12-06 10:10:10.664] [sharedprocess] [info] Renamed to /home/guillaume-alain.priso-totto/.vscode/extensions/ms-toolsai.jupyter-2022.6.1201981810
+[2022-12-06 10:10:10.672] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-12-06 10:10:22.368] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/guillaume-alain.priso-totto/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.11.40
+[2022-12-06 10:10:25.164] [sharedprocess] [info] Extracted extension to /home/guillaume-alain.priso-totto/.vscode/extensions/.be53791d-297b-4d35-adb0-16f3bbbc0a6c: ms-python.vscode-pylance
+[2022-12-06 10:10:25.167] [sharedprocess] [info] Renamed to /home/guillaume-alain.priso-totto/.vscode/extensions/ms-python.vscode-pylance-2022.11.40
+[2022-12-06 10:10:25.169] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-12-06 10:10:25.173] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-12-06 10:10:25.173] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-12-06 10:10:25.173] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-12-06 10:10:25.173] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-12-06 10:10:25.173] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-12-06 10:10:54.273] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+[2022-12-06 10:10:54.276] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-extension-pack
+[2022-12-06 10:10:54.762] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-12-06 10:10:55.320] [sharedprocess] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-12-06 10:10:56.008] [sharedprocess] [info] Getting Manifest... twxs.cmake
+[2022-12-06 10:10:56.737] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools-themes
+[2022-12-06 10:10:57.383] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-12-06 10:10:57.383] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2022-12-06 10:10:57.383] [sharedprocess] [info] Installing extension: twxs.cmake
+[2022-12-06 10:10:57.383] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-themes
+[2022-12-06 10:10:57.660] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/guillaume-alain.priso-totto/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.12.4-linux-x64
+[2022-12-06 10:10:57.660] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools /home/guillaume-alain.priso-totto/.config/Code/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.12.27
+[2022-12-06 10:10:57.660] [sharedprocess] [info] Downloaded extension: twxs.cmake /home/guillaume-alain.priso-totto/.config/Code/CachedExtensionVSIXs/twxs.cmake-0.0.17
+[2022-12-06 10:10:57.661] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-themes /home/guillaume-alain.priso-totto/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-themes-2.0.0
+[2022-12-06 10:10:57.749] [sharedprocess] [info] Extracted extension to /home/guillaume-alain.priso-totto/.vscode/extensions/.83daeb29-ba31-4dc3-b449-d123be95997a: ms-vscode.cpptools-themes
+[2022-12-06 10:10:57.752] [sharedprocess] [info] Renamed to /home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0
+[2022-12-06 10:10:57.753] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-themes
+[2022-12-06 10:10:58.286] [sharedprocess] [info] Extracted extension to /home/guillaume-alain.priso-totto/.vscode/extensions/.e64197bb-744c-4480-8e9a-74a58f50a7e3: ms-vscode.cmake-tools
+[2022-12-06 10:10:58.289] [sharedprocess] [info] Renamed to /home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cmake-tools-1.12.27
+[2022-12-06 10:10:58.294] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-12-06 10:10:59.672] [sharedprocess] [info] Extracted extension to /home/guillaume-alain.priso-totto/.vscode/extensions/.6b605b31-7d61-41b0-98ed-1797cc72dfd2: twxs.cmake
+[2022-12-06 10:10:59.673] [sharedprocess] [info] Renamed to /home/guillaume-alain.priso-totto/.vscode/extensions/twxs.cmake-0.0.17
+[2022-12-06 10:10:59.677] [sharedprocess] [info] Extracting completed. twxs.cmake
+[2022-12-06 10:11:13.622] [sharedprocess] [info] Extracted extension to /home/guillaume-alain.priso-totto/.vscode/extensions/.db3247af-2da5-4e76-9527-b2c76e906a4b: ms-vscode.cpptools
+[2022-12-06 10:11:13.626] [sharedprocess] [info] Renamed to /home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64
+[2022-12-06 10:11:13.639] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-12-06 10:11:13.743] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-extension-pack /home/guillaume-alain.priso-totto/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-extension-pack-1.3.0
+[2022-12-06 10:11:13.757] [sharedprocess] [info] Extracted extension to /home/guillaume-alain.priso-totto/.vscode/extensions/.802d11e4-64c0-4a97-a02f-b8858ec994c3: ms-vscode.cpptools-extension-pack
+[2022-12-06 10:11:13.758] [sharedprocess] [info] Renamed to /home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.3.0
+[2022-12-06 10:11:13.759] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-extension-pack
+[2022-12-06 10:11:13.762] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-themes
+[2022-12-06 10:11:13.762] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-12-06 10:11:13.762] [sharedprocess] [info] Extension installed successfully: twxs.cmake
+[2022-12-06 10:11:13.762] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-12-06 10:11:13.762] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-extension-pack

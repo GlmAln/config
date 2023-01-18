@@ -1,0 +1,297 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+              <folding>
+                <marker date="1653576893594" expanded="false" signature="6:71" ph="..." />
+                <marker date="1653576893594" expanded="true" signature="98:241" ph="{...}" />
+                <marker date="1653576893594" expanded="true" signature="118:239" ph="{...}" />
+                <marker date="1653576893594" expanded="true" signature="164:233" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Basics/Loops.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+              <folding>
+                <marker date="1653576792343" expanded="true" signature="47:2299" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="79:2297" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="132:359" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="265:319" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="406:647" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="440:494" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="559:613" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="691:792" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="841:942" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="991:1092" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="1153:1254" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="1294:1871" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="1328:1382" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="1417:1471" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="1496:1550" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="1691:1837" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="1910:2291" ph="{...}" />
+                <marker date="1653576792343" expanded="true" signature="2144:2257" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Case1-HangedMan/Basics/Loops.cs" />
+      <option value="$PROJECT_DIR$/Case1-HangedMan/Program.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Case1-HangedMan/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Basics" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Basics" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Case1-HangedMan" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Case1-HangedMan" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </select>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3957000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25026095" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.25026095" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3299712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40009606" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="4" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="dotTrace Profiler" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Flow" order="4" />
+      <window_info anchor="bottom" id="Endpoints" order="5" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.3299712" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="4" />
+      <window_info anchor="right" id="IL Viewer" order="4" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Favorites</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state width="1874" height="315" key="GridCell.Tab.0.bottom" timestamp="1653574323918">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="315" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1653574323918" />
+    <state width="1874" height="315" key="GridCell.Tab.0.center" timestamp="1653574323917">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="315" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1653574323917" />
+    <state width="1874" height="315" key="GridCell.Tab.0.left" timestamp="1653574323917">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="315" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1653574323917" />
+    <state width="1874" height="315" key="GridCell.Tab.0.right" timestamp="1653574323918">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="315" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1653574323918" />
+    <state width="1874" height="415" key="GridCell.Tab.1.bottom" timestamp="1653574287291">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287291" />
+    <state width="1874" height="415" key="GridCell.Tab.1.center" timestamp="1653574287290">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287290" />
+    <state width="1874" height="415" key="GridCell.Tab.1.left" timestamp="1653574287290">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287290" />
+    <state width="1874" height="415" key="GridCell.Tab.1.right" timestamp="1653574287291">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287291" />
+    <state width="1874" height="415" key="GridCell.Tab.2.bottom" timestamp="1653574287292">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287292" />
+    <state width="1874" height="415" key="GridCell.Tab.2.center" timestamp="1653574287291">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287291" />
+    <state width="1874" height="415" key="GridCell.Tab.2.left" timestamp="1653574287291">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287291" />
+    <state width="1874" height="415" key="GridCell.Tab.2.right" timestamp="1653574287291">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287291" />
+    <state width="1874" height="415" key="GridCell.Tab.3.bottom" timestamp="1653574287292">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287292" />
+    <state width="1874" height="415" key="GridCell.Tab.3.center" timestamp="1653574287292">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287292" />
+    <state width="1874" height="415" key="GridCell.Tab.3.left" timestamp="1653574287292">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287292" />
+    <state width="1874" height="415" key="GridCell.Tab.3.right" timestamp="1653574287292">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287292" />
+    <state width="1874" height="415" key="GridCell.Tab.4.bottom" timestamp="1653574287293">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287293" />
+    <state width="1874" height="415" key="GridCell.Tab.4.center" timestamp="1653574287293">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.center/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287293" />
+    <state width="1874" height="415" key="GridCell.Tab.4.left" timestamp="1653574287293">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.left/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287293" />
+    <state width="1874" height="415" key="GridCell.Tab.4.right" timestamp="1653574287293">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="415" key="GridCell.Tab.4.right/0.0.1920.1080@0.0.1920.1080" timestamp="1653574287293" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Basics/Loops.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <marker date="1653576792343" expanded="true" signature="47:2299" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="79:2297" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="132:359" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="265:319" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="406:647" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="440:494" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="559:613" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="691:792" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="841:942" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="991:1092" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="1153:1254" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="1294:1871" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="1328:1382" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="1417:1471" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="1496:1550" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="1691:1837" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="1910:2291" ph="{...}" />
+            <marker date="1653576792343" expanded="true" signature="2144:2257" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <marker date="1653576893594" expanded="false" signature="6:71" ph="..." />
+            <marker date="1653576893594" expanded="true" signature="98:241" ph="{...}" />
+            <marker date="1653576893594" expanded="true" signature="118:239" ph="{...}" />
+            <marker date="1653576893594" expanded="true" signature="164:233" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

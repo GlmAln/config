@@ -1,0 +1,11 @@
+CC = gcc
+CFLAGS = -std=c99 -Werror -Wall -Wextra -g -fsanitize=address -o
+
+IO_SRC = $(wildcard io/*.c)
+IO_OBJ = $(patsubst %.c,%.o,$(IO_SRC))
+
+SIGNALS_SRC = $(wildcard io/*.c)
+SIGNALS_OBJ = $(patsubst %.c,%.o,$(SIGNALS_SRC))
+
+puts : $(IO_OBJ)
+	$(CC) $(CFLAGS) puts my_puts.c 

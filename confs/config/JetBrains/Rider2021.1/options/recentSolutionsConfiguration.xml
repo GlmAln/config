@@ -1,0 +1,45 @@
+<application>
+  <component name="SolutionConfigurationStore">
+    <option name="configurations">
+      <map>
+        <entry key="/afs/cri.epita.fr/user/g/gu/guillaume-alain.priso-totto/u/tp_prog/tp0-guillaume-alain.priso-totto/skeleton/tp0/Basics/Basics.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="/afs/cri.epita.fr/user/g/gu/guillaume-alain.priso-totto/u/tp_prog/tp0-guillaume-alain.priso-totto/skeleton/tp0/Basics/Basics/Basics.csproj">
+          <value>
+            <ConfigurationInfo />
+          </value>
+        </entry>
+        <entry key="/afs/cri.epita.fr/user/g/gu/guillaume-alain.priso-totto/u/tp_prog/tp1-guillaume-alain.priso-totto/Case1-HangedMan/Case1-HangedMan.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/afs/tp_prog/tp2-guillaume-alain.priso-totto/Exercices/Exercices.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/afs/tp_prog/tp3-guillaume-alain.priso-totto/skeleton/Arrays101/Arrays101.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

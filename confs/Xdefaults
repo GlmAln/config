@@ -1,0 +1,5 @@
+*utf8: always
+URxvt.depth: 32
+URxvt.background: rgba:1111/1111/1111/dddd
+URxvt.transparent:   true
+URxvt*.shading: 20

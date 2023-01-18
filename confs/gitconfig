@@ -1,0 +1,31 @@
+[core]
+	excludesfile = ~/.gitignore
+[color]
+	ui = auto
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[commit]
+	verbose = true
+[pull]
+	rebase = true
+[branch]
+	autosetuprebase = always
+[push]
+	default = simple
+[rebase]
+	autoSquash = true
+	autoStash = true
+[sendemail]
+	smtpencryption = tls
+	smtpserver = smtp.office365.com
+	smtpserverport = 587
+	smtpuser = firstname.lastname@epita.fr
+[user]
+name = Guillaume-Alain PRISO-TOTTO
+email = guillaume-alain.priso-totto@epita.fr
+[color]
+ui = true
+[push]
+default = simple

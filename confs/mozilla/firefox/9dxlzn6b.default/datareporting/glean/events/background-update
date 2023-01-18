@@ -1,0 +1,3 @@
+{"timestamp":226765,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"fxms-message-1","experiment":"import-infrequent-make-yourself-at-home","reason":"invalid-feature"}}
+{"timestamp":226765,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"import-infrequent-rollout-make-yourself-at-home","feature":"fxms-message-1","reason":"invalid-feature"}}
+{"timestamp":611076,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"fxms-message-1","reason":"invalid-feature","experiment":"import-infrequent-rollout-make-yourself-at-home"}}

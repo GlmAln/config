@@ -1,0 +1,202 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2H8RXF7TES6wH0hgDg4ds2hEKRw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HaV1fAHH86WGeGPfLkYUr031L9">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="218YCnVd6HYthtoOyX8tFFMXkKA">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="218YEoFh1Tv8GkAmVDicRCyBHeh">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21SKw8UaE3xqfGjCCkZUwxNfYpJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21dEJ46aDmeOzekE7o4a0elbPL3">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="225tNRcJfynUmrbd4e7My7xE9DI">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23ZUj0PEvztbUakpkla2LJYlBYi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23pCSIv8YGAvtnzSIUZPTlFvAxq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23xwzAgTP8kRuYoaBvZ6k15FKo0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24WVVDRfqzHuaBybRCMj05geqS7">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24dawf4ca4zTtvvTJwFwrveaQUl">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24xNixiqz4oR1ikwvSTtHJxsk5M">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26YCZgFRwyqjgkSaWkS2sPnxJGE">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="270TWXyUUStPfYBPNOeFpFqKxZ2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="270aUQlmVGbfuhzSRD38Zr1c8NF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="27TB1td8bC5wXVYDXWfKViVYwi6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="27VQpgjeKt8nK6d6o8ieUlxoLU1">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="27VRLUuwwgyvLEDVehCDZ32MnRF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29hWc9U2BHP9aV0Fr8e8uCy9xmp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29hZax5lteuFWRGpiKOxXwVHZ3Z">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29haR1PFq0Nkj23sZ3Dg5jznFr0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29hay2zwHcr9vBramWS6xvu92Pp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Debug.Allow.Typing" value="true" />
+    <property name="NextRunPlatformUpdateBuild" value="RD-212.5712.52/2021.2.3" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.2.3" />
+    <property name="Non.Modal.Commit.Single.Click2" value="true" />
+    <property name="Non.Modal.Commit4" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RD.Light.Edit.Disabled" value="true" />
+    <property name="RD.Switch.Laf" value="true" />
+    <property name="Rider.Pin.Item.Was.Executed" value="true" />
+    <property name="RiderUnitTestPanelSplitter.Horizontal" value="0.5" />
+    <property name="Tutorials.In.Recent.Projects.Disabled" value="true" />
+    <property name="appcds.runOnSecondStart" value="RD-212.5284.64-b439a156b6784f46d643c4d43d5bbc9066cd10b1206ce85331ecfff6a7882831" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="evlsprt3.211" value="18" />
+    <property name="evlsprt3.212" value="13" />
+    <property name="experimentalFeature.editor.reader.mode" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/afs/tp_prog/csharp/guillaume-alain.priso-totto-2026-abacus/Abacus.sln&#10;/home/guillaume-alain.priso-totto/afs/nts/tp2-guillaume-alain.priso-totto/utils.py&#10;/home/guillaume-alain.priso-totto/afs/tp_prog/csharp/tp11-guillaume-alain.priso-totto/skeleton/SherlocksGambit/SherlocksGambit.sln&#10;/home/guillaume-alain.priso-totto/afs/tp_prog/csharp/tp6-guillaume-alain.priso-totto/Factory06/Factory06.sln&#10;/home/guillaume-alain.priso-totto/afs/tp_prog/tp5-guillaume-alain.priso-totto/Interrogation_Room/IO.sln&#10;/home/guillaume-alain.priso-totto/afs/tp_prog/tp5-guillaume-alain.priso-totto/Interrogation_Room&#10;/home/guillaume-alain.priso-totto/afs/tp_prog/tp3-guillaume-alain.priso-totto/skeleton/Arrays101&#10;/home/guillaume-alain.priso-totto/afs/tp_prog/tp2-guillaume-alain.priso-totto" />
+    <property name="file.gist.reindex.count" value="89" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="ide.updates.previous.build.number" value="RD-212.5284.64" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="last_open_solution_path" value="$USER_HOME$/afs/tp_prog/csharp/guillaume-alain.priso-totto-2026-abacus" />
+    <property name="last_opened_file_path" value="$USER_HOME$/afs/nts/tp2-guillaume-alain.priso-totto/utils.py" />
+    <property name="last_selected_template" value="Class Library|.NET Framework" />
+    <property name="last_selected_template_parameters" value="TargetFrameworkOverride=net5.0;Type=Class Library;Language=C#;Framework=v4.8;" />
+    <property name="registry.to.advanced.settings.migration.build" value="RD-212.5284.64" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;CWM_LOGGING_VERSION&quot;: &quot;1&quot;,
+    &quot;Debug.Allow.Typing&quot;: &quot;true&quot;,
+    &quot;NextRunPlatformUpdateBuild&quot;: &quot;RD-221.5787.36/2022.1.2&quot;,
+    &quot;NextRunPlatformUpdateVersion&quot;: &quot;2022.1.2&quot;,
+    &quot;RD.Init.Cfg.2&quot;: &quot;true&quot;,
+    &quot;RD.Init.DialogShown.Ide&quot;: &quot;true&quot;,
+    &quot;Rider.Last.Started.IDE.Build&quot;: &quot;RD-221.5080.236&quot;,
+    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
+    &quot;Tutorials.In.Recent.Projects.Disabled&quot;: &quot;true&quot;,
+    &quot;appcds.runOnSecondStart&quot;: &quot;RD-221.5080.236-b39a3ae6d8d6ae43e5344ccb045d59e7d4720af3a5a4b6ca3e57f90b7cd62a30&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;RD-221.5080.236&quot;,
+    &quot;experimentalFeature.editor.reader.mode&quot;: &quot;false&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;4&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;ide.updates.old.dirs.scan.scheduled&quot;: &quot;1668269586764&quot;,
+    &quot;ide.updates.whats.new.shown.for&quot;: &quot;212&quot;,
+    &quot;ignoreUltimateEdition&quot;: &quot;true&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;RD-221.5080.236&quot;,
+    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;,
+    &quot;toolwindow.stripes.buttons.info.shown&quot;: &quot;true&quot;,
+    &quot;ts.lib.d.ts.version&quot;: &quot;4.5.4&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector&quot;,
+      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
+      &quot;com.intellij.database.vfs.DbStorageFileType$Detector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
+      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+</application>

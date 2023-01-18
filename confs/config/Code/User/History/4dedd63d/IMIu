@@ -1,0 +1,13 @@
+# TODO
+CC = gcc
+CFLAGS = -Wall -Werror -Wextra -pedantic -std=c99 -I -02 -DNDBUG
+
+DIRS = $(dir $(wildcard src/*/))
+SRC = $(DIRS).c
+OBJ = $(DIRS: =.o)
+
+all : ${OBJ}
+
+.PHONY: clean
+clean :
+	${RM} ${OBJ}

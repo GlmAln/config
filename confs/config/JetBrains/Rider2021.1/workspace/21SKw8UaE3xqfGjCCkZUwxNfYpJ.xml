@@ -1,0 +1,346 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Basics/Loops.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-171">
+              <caret line="85" column="31" lean-forward="true" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
+              <folding>
+                <marker date="1637937063000" expanded="true" signature="47:2471" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="79:2469" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="132:374" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="192:246" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="273:328" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="421:810" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="491:621" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="699:776" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="854:1302" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="952:1086" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="1127:1264" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="1199:1249" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="1351:1491" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="1397:1454" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="1549:2005" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="1744:1959" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="2067:2463" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="2152:2206" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="2258:2424" ph="{...}" />
+                <marker date="1637937063000" expanded="true" signature="2310:2380" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Game/Game.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="717">
+              <caret line="145" column="1" lean-forward="true" selection-start-line="145" selection-start-column="1" selection-end-line="145" selection-end-column="1" />
+              <folding>
+                <marker date="1637938823000" expanded="true" signature="60:113" ph="..." />
+                <marker date="1637938823000" expanded="true" signature="145:6629" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="176:6627" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="191:729" ph="/* This is a private global variable accessible from everywhere within this file ... */" />
+                <marker date="1637938823000" expanded="true" signature="818:1244" ph="/* TODO implement this function ... */" />
+                <marker date="1637938823000" expanded="true" signature="1282:1795" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="1409:1552" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="1600:1759" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="1805:2008" ph="/* TODO implement this function ... */" />
+                <marker date="1637938823000" expanded="true" signature="2087:2247" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="2257:2885" ph="/* TODO implement this function ... */" />
+                <marker date="1637938823000" expanded="true" signature="2975:3326" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="3036:3117" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="3169:3250" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="3336:3477" ph="/* TODO implement this function ... */" />
+                <marker date="1637938823000" expanded="true" signature="3552:3653" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="3671:4467" ph="/* TODO implement this function ... */" />
+                <marker date="1637938823000" expanded="true" signature="4605:4706" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="4716:5059" ph="/* TODO implement this function ... */" />
+                <marker date="1637938823000" expanded="true" signature="5163:5264" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="5274:5482" ph="/* TODO implement this function ... */" />
+                <marker date="1637938823000" expanded="true" signature="5587:5688" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="5706:6480" ph="/* TODO implement this function ... */" />
+                <marker date="1637938823000" expanded="true" signature="6520:6621" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Game/Loader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1930">
+              <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+              <folding>
+                <marker date="1637601311000" expanded="false" signature="0:110" ph="// !!! Please do not edit this file !!!..." />
+                <marker date="1637601311000" expanded="false" signature="118:186" ph="..." />
+                <marker date="1637601311000" expanded="true" signature="218:2646" ph="{...}" />
+                <marker date="1637601311000" expanded="true" signature="252:2644" ph="{...}" />
+                <marker date="1637601311000" expanded="true" signature="267:556" ph="/* Loads the file word_bank.txt and return a random word from the file ... */" />
+                <marker date="1637601311000" expanded="true" signature="638:1113" ph="{...}" />
+                <marker date="1637601311000" expanded="true" signature="804:982" ph="{...}" />
+                <marker date="1637601311000" expanded="true" signature="1014:1103" ph="{...}" />
+                <marker date="1637601311000" expanded="true" signature="1123:1229" ph="/* This function returns a char array initialized to '_' at size of the WordToGuess ... */" />
+                <marker date="1637601311000" expanded="true" signature="1289:1372" ph="{...}" />
+                <marker date="1637601311000" expanded="true" signature="1382:1445" ph="/* This enum logs the state of the game. ... */" />
+                <marker date="1637601311000" expanded="true" signature="1475:1563" ph="{...}" />
+                <marker date="1637601311000" expanded="true" signature="1581:1759" ph="/* This is the array of all the possibles version of the hangman ... */" />
+                <marker date="1637601311000" expanded="true" signature="1817:2255" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="10" column="69" lean-forward="true" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+              <folding>
+                <marker date="1637938823000" expanded="false" signature="6:71" ph="..." />
+                <marker date="1637938823000" expanded="true" signature="98:262" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="118:260" ph="{...}" />
+                <marker date="1637938823000" expanded="true" signature="164:254" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Case1-HangedMan/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bonuses" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Game" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Case1-HangedMan" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Basics" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9603000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.125" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="dotTrace Profiler" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.3299712" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="IL Viewer" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state width="1874" height="315" key="GridCell.Tab.0.bottom" timestamp="1637938908168">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="315" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1637938908168" />
+    <state width="1874" height="315" key="GridCell.Tab.0.center" timestamp="1637938908167">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="315" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1637938908167" />
+    <state width="1874" height="315" key="GridCell.Tab.0.left" timestamp="1637938908167">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="315" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1637938908167" />
+    <state width="1874" height="315" key="GridCell.Tab.0.right" timestamp="1637938908168">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="315" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1637938908168" />
+    <state x="622" y="245" key="run.anything.popup" timestamp="1637933512374">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="245" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1637933512374" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Game/acdc_logins.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Game/word_bank.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="69" lean-forward="true" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+          <folding>
+            <marker date="1637938823000" expanded="false" signature="6:71" ph="..." />
+            <marker date="1637938823000" expanded="true" signature="98:262" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="118:260" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="164:254" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Game/Loader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1930">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+          <folding>
+            <marker date="1637601311000" expanded="false" signature="0:110" ph="// !!! Please do not edit this file !!!..." />
+            <marker date="1637601311000" expanded="false" signature="118:186" ph="..." />
+            <marker date="1637601311000" expanded="true" signature="218:2646" ph="{...}" />
+            <marker date="1637601311000" expanded="true" signature="252:2644" ph="{...}" />
+            <marker date="1637601311000" expanded="true" signature="267:556" ph="/* Loads the file word_bank.txt and return a random word from the file ... */" />
+            <marker date="1637601311000" expanded="true" signature="638:1113" ph="{...}" />
+            <marker date="1637601311000" expanded="true" signature="804:982" ph="{...}" />
+            <marker date="1637601311000" expanded="true" signature="1014:1103" ph="{...}" />
+            <marker date="1637601311000" expanded="true" signature="1123:1229" ph="/* This function returns a char array initialized to '_' at size of the WordToGuess ... */" />
+            <marker date="1637601311000" expanded="true" signature="1289:1372" ph="{...}" />
+            <marker date="1637601311000" expanded="true" signature="1382:1445" ph="/* This enum logs the state of the game. ... */" />
+            <marker date="1637601311000" expanded="true" signature="1475:1563" ph="{...}" />
+            <marker date="1637601311000" expanded="true" signature="1581:1759" ph="/* This is the array of all the possibles version of the hangman ... */" />
+            <marker date="1637601311000" expanded="true" signature="1817:2255" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Basics/Loops.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="85" column="31" lean-forward="true" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
+          <folding>
+            <marker date="1637937063000" expanded="true" signature="47:2471" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="79:2469" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="132:374" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="192:246" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="273:328" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="421:810" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="491:621" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="699:776" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="854:1302" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="952:1086" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="1127:1264" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="1199:1249" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="1351:1491" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="1397:1454" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="1549:2005" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="1744:1959" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="2067:2463" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="2152:2206" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="2258:2424" ph="{...}" />
+            <marker date="1637937063000" expanded="true" signature="2310:2380" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Case1-HangedMan/Game/Game.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="145" column="1" lean-forward="true" selection-start-line="145" selection-start-column="1" selection-end-line="145" selection-end-column="1" />
+          <folding>
+            <marker date="1637938823000" expanded="true" signature="60:113" ph="..." />
+            <marker date="1637938823000" expanded="true" signature="145:6629" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="176:6627" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="191:729" ph="/* This is a private global variable accessible from everywhere within this file ... */" />
+            <marker date="1637938823000" expanded="true" signature="818:1244" ph="/* TODO implement this function ... */" />
+            <marker date="1637938823000" expanded="true" signature="1282:1795" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="1409:1552" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="1600:1759" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="1805:2008" ph="/* TODO implement this function ... */" />
+            <marker date="1637938823000" expanded="true" signature="2087:2247" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="2257:2885" ph="/* TODO implement this function ... */" />
+            <marker date="1637938823000" expanded="true" signature="2975:3326" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="3036:3117" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="3169:3250" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="3336:3477" ph="/* TODO implement this function ... */" />
+            <marker date="1637938823000" expanded="true" signature="3552:3653" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="3671:4467" ph="/* TODO implement this function ... */" />
+            <marker date="1637938823000" expanded="true" signature="4605:4706" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="4716:5059" ph="/* TODO implement this function ... */" />
+            <marker date="1637938823000" expanded="true" signature="5163:5264" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="5274:5482" ph="/* TODO implement this function ... */" />
+            <marker date="1637938823000" expanded="true" signature="5587:5688" ph="{...}" />
+            <marker date="1637938823000" expanded="true" signature="5706:6480" ph="/* TODO implement this function ... */" />
+            <marker date="1637938823000" expanded="true" signature="6520:6621" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

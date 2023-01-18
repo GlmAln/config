@@ -1,0 +1,55 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="126" l="1648741659526" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="16" l="1648741423087" />
+    </e>
+    <e n="EditorCopy">
+      <i c="5" l="1648741076615" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1648738608787" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="31" l="1648741660626" />
+    </e>
+    <e n="EditorDown">
+      <i c="120" l="1648741616885" />
+    </e>
+    <e n="EditorEnter">
+      <i c="40" l="1648741641022" />
+    </e>
+    <e n="EditorLeft">
+      <i c="165" l="1648741664838" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="62" l="1648741193777" />
+    </e>
+    <e n="EditorPaste">
+      <i c="6" l="1648741082254" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="43" l="1648741652742" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="1" l="1648736506251" />
+    </e>
+    <e n="EditorRight">
+      <i c="339" l="1648741669815" />
+    </e>
+    <e n="EditorTab">
+      <i c="5" l="1648739221151" />
+    </e>
+    <e n="EditorUp">
+      <i c="171" l="1648741178985" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1648741755241" />
+    </e>
+    <e n="com.intellij.ide.lightEdit.actions.LightEditOpenFileInProjectAction">
+      <i c="1" l="1648736916311" />
+    </e>
+  </component>
+</application>

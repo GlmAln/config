@@ -1,0 +1,47 @@
+{
+   "checksum": "d182f48efe7499fe7b74af7dc375d3e0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13312053500292648",
+            "guid": "4f16e57a-22ae-45b8-9541-5f3fbda86876",
+            "id": "5",
+            "name": "CubeCraft - Mine & Craft - Chrome Web Store",
+            "type": "url",
+            "url": "https://chrome.google.com/webstore/detail/cubecraft-mine-craft/aelilchegodhfninjoolghfaoeikadni/related?hl=en"
+         }, {
+            "date_added": "13312053573221760",
+            "guid": "4cd16d11-12b3-4e3e-9e9f-75cf46d09c4a",
+            "id": "6",
+            "name": "Jump! - Chrome Web Store",
+            "type": "url",
+            "url": "https://chrome.google.com/webstore/detail/jump/gappjieodenkcldikeopfgiheemoaagb/related?hl=en"
+         } ],
+         "date_added": "13312051923236375",
+         "date_modified": "13312053573221760",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13312051923236378",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13312051923236380",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

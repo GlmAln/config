@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "security.workspace.trust.untrustedFiles": "open",
+    "debug.javascript.autoAttachFilter": "smart",
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 3
+}

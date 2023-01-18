@@ -1,0 +1,18 @@
+{
+   "browser_action": {
+      "default_icon": "jump16.png",
+      "default_popup": "frogger.html"
+   },
+   "description": "A fun, car-dodging game! How far can you get?",
+   "icons": {
+      "128": "jump128.png",
+      "16": "jump16.png",
+      "48": "jump48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv0gDjHsG8ljJg5qGRMQ+wCXich7GwVZV3mdPgQCR6U1ERXIox6gCw5qz0tJ3EOZZJ4FA5z/l/4bjFiaDqByIX9qz13f0ggMp7E+xH656Mc9JJclWHwMZu6388qqvpiXqykiytD4vMB2lpabzPPLiRaIG+dOnRX3vbpvOTlcSr2keI+v+znPZqRt1VIT7pS3eLpJdylLycKvbl3WEqH6HDKMNz6DzCodeRYeYxl7gtTSPZUnQCrbX4voy9vUNAy0Kp6yvUGRVjCA6O/P6DzOVVSW9Lzj+Wu9jyprX+pP7Fk501E38nizWLYBlbWCXQoZM/n7RK16UGgnzUSzkxyfKGQIDAQAB",
+   "manifest_version": 2,
+   "name": "Jump!",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.3"
+}

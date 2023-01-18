@@ -1,0 +1,57 @@
+[2022-12-06 10:05:59.492] [exthost] [info] Extension host with pid 8446 started
+[2022-12-06 10:05:59.622] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-12-06 10:05:59.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-12-06 10:05:59.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-12-06 10:05:59.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-12-06 10:05:59.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-12-06 10:05:59.897] [exthost] [info] Eager extensions activated
+[2022-12-06 10:05:59.900] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-06 10:05:59.945] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-06 10:05:59.959] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-12-06 10:10:54.461] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-12-06 10:11:14.157] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+[2022-12-06 10:22:18.291] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-12-06 10:22:18.308] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-12-06 10:22:18.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-12-06 10:22:18.583] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.setAutoAttachVariables'
+[2022-12-06 11:02:29.534] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-12-06 11:02:29.550] [exthost] [error] Error: Previous start failed. Can't restart server.
+	at LanguageClient.$start (/home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56355:19)
+	at LanguageClient.shutdown (/home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56221:39)
+	at LanguageClient.stop (/home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56204:21)
+	at LanguageClient.stop (/home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:64970:22)
+	at Function.stopLanguageClient (/home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:39844:48)
+	at ClientCollection.dispose (/home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:40241:39)
+	at Object.deactivate (/home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:44004:20)
+	at Object.<anonymous> (/home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:50059:30)
+	at Generator.next (<anonymous>)
+	at /home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:49926:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.7114.__awaiter (/home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:49922:12)
+	at Object.deactivate (/home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:50052:12)
+	at w._deactivate (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:13087)
+	at /nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:10645
+	at Array.map (<anonymous>)
+	at w._deactivateAll (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:10632)
+	at w.terminate (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:11014)
+	at w.terminate (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:620)
+	at m (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:36671)
+	at /nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:34616
+	at w.invoke (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at p.fire (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at a.fire (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:18976)
+	at r._receiveMessage (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23563)
+	at /nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21097
+	at w.invoke (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at v.deliver (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at p.fire (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at p.acceptChunk (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15807)
+	at /nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14937
+	at Socket.R (/nix/store/8ybggqbzhpmj6ax299x7kz9b53861frx-vscode-1.69.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13763)
+	at Socket.emit (node:events:390:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-12-06 11:02:29.560] [exthost] [info] Extension host with pid 8446 exiting with code 0

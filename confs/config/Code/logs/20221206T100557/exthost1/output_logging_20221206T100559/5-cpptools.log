@@ -1,0 +1,2 @@
+[Error - 10:11:14 AM] cpptools client: couldn't create connection to server.
+Launching server using command /home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/bin/cpptools failed. Error: spawn /home/guillaume-alain.priso-totto/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/bin/cpptools ENOENT

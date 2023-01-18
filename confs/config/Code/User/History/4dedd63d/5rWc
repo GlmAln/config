@@ -1,0 +1,12 @@
+# TODO
+
+DIRS = $(dir $(wildcard src/*/)
+FILES = $(DIRS)/$(DIRS).c
+OBJ = $(DIRS)/$(DIRS).o
+CC = gcc
+CFLAGS =  -Wall -Werror -Wextra -pedantic -std=c99 -I$(DIRS) -02 -DNDBUG -c -o $(FILES) $(OBJ)
+
+.PHONY: clean
+
+clean : 
+rm {OBJ}

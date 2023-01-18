@@ -1,0 +1,10 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="/afs/cri.epita.fr/user/g/gu/guillaume-alain.priso-totto/u/work/spe/c/guillaume-alain.priso-totto-2026-asm-s3-tp03/basics" value="true" />
+        <entry key="/afs/cri.epita.fr/user/g/gu/guillaume-alain.priso-totto/u/work/spe/thlr" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
